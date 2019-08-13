@@ -224,12 +224,12 @@ Lastly, Dustforce doesn’t include any rng elements affecting gameplay, which i
 
 Just like it was mentioned in the Beginner Tutorial level, dashing puts you at full running speed (or almost full in case of Dustworth) immediately. Dash whenever you want to start running. When you land on the ground some amount of ground friction is applied to your character, so dash after landing as well.
 
-![1.gif](Resources/1.gif)
+![1.webp](Resources/1.webp)
 
 Here you can see me lose some speed when I land on each platform.
 
 \
-![2.gif](Resources/2.gif)
+![2.webp](Resources/2.webp)
 
 And here even when I lose speed I’m back to running because I dash right after touching the ground.
 
@@ -282,7 +282,7 @@ There is no height you can reach in between them by holding the ‘jump’ key s
 
 If sometimes after jumping off a ledge you don’t seem to be able to double-jump, it’s because you pressed ‘jump’ while already being off the ground. You can differentiate normal groundjump from an airjump by the “cloud” below your character the second one produces.
 
-![7.gif](Resources/7.gif)
+![7.webp](Resources/7.webp)
 
 - - - -
 
@@ -294,12 +294,12 @@ If sometimes after jumping off a ledge you don’t seem to be able to double-jum
 
 The important thing to bring up here is that the sprite of your character doesn’t have to be touching the wall to be able to walljump. When you’re close enough to a wall, a jump input is going to magnet your character to it. This is why you sometimes might die to a spiked wall even though you’re not touching it.
 
-![3.gif](Resources/3.gif)
+![3.webp](Resources/3.webp)
 
 Here’s me walljumping as early as possible.
 
 \
-![4.gif](Resources/4.gif)
+![4.webp](Resources/4.webp)
 
 And here’s how it looks like when the wall has spikes.
 
@@ -320,7 +320,7 @@ To perform a walldash you can’t be holding ‘down’ or the direction towards
 
 Make sure to delay jumping after walldashing enough.
 
-![5.gif](Resources/5.gif)
+![5.webp](Resources/5.webp)
 
 - - - -
 
@@ -338,7 +338,7 @@ Copy the link into your browser's address bar. If you’re having issues install
 
 Just in case here’s a clip of me doing the first one in slow motion, so you can easily follow the input display.
 
-![6.gif](Resources/6.gif)
+![6.webp](Resources/6.webp)
 
 - - - -
 
@@ -368,26 +368,26 @@ It’s pretty much the same for Dustman and Dustgirl:
 
 Dash → Lowjump quickly followed by Airjump → Downdash → Dash when you hit the ground.
 
-![8.gif](Resources/8.gif)
+![8.webp](Resources/8.webp)
 
-![9.gif](Resources/9.gif)
+![9.webp](Resources/9.webp)
 
 \
 Inputs for Dustkid are a bit different:
 
 Dash→ Highjump → just before you reach the top of the jump arc Dash -> immediately Jump → Downdash → Dash.
 
-![10.gif](Resources/10.gif)
+![10.webp](Resources/10.webp)
 
 \
 Dustworth does the same inputs as Dustman and Dustgirl, but the setup is considerably more difficult. The window for the downdash is very small, because downdashing at greater height results in angle with the ground being too big for the boost to work. 
 
-![11.gif](Resources/11.gif)
+![11.webp](Resources/11.webp)
 
 \
 You can also of course get ground boosts simply by utilizing the geometry around you, for example by downdashing or simply dropping from a higher platform. For the normal running speed (after you dash from standstill) 5 tiles height is very good to get a boost.
 
-![12.gif](Resources/12.gif)
+![12.webp](Resources/12.webp)
 
 \
 With time you will learn where you can go and where you can’t go for groundboosts.
@@ -439,7 +439,7 @@ For practicing extended dash rhythm you can consider enabling Boost Trainer whic
 
 Ground angled at ~26<sup>o</sup> is referred to as a slant and usually you boost off of it while not having much height. For example downdashing directly from a 5 tiles high platform is too much for normal running speed. In the clip below I’m decreasing my height a bit first.
 
-![13.gif](Resources/13.gif)
+![13.webp](Resources/13.webp)
 
 - - - -
 
@@ -453,7 +453,7 @@ When you ground jump your character enters jump squat animation before leaving t
 
 Try it in this practice map – dustforce://installPlay/9259/GUIDE4
 
-![14.gif](Resources/14.gif)
+![14.webp](Resources/14.webp)
 
 Only 2 frames of jumpsquat, normally it takes 8.
 
@@ -479,7 +479,7 @@ Keep in mind mantles are usually much more difficult to execute than ledge cance
 
 When sliding down a slope you can jump without going through the jump squat animation. It does however still kill pretty much any boost you might have. 
 
-![15.gif](Resources/15.gif)
+![15.webp](Resources/15.webp)
 
 It’s used really only in top runs where every frame matters and jump squat wastes a few. I’m explaining it in this guide though because you might do it accidentally and wonder if something weird didn’t just happen.
 
@@ -499,7 +499,7 @@ You can control the direction in which you’re going to jump off by holding ‘
 
 Even though it’s called “Spikejump” it works the same way on slopes without spikes.
 
-![16.gif](Resources/16.gif)
+![16.webp](Resources/16.webp)
 
 \
 <a name="combat"/>
@@ -542,7 +542,7 @@ You also have to keep these windows in mind when you start holding the opposite 
 
 When you want to do a backheavy while moving forward in the air, it’s important to not hold the back direction for too long or you’re going to lose a big chunk of your speed. However if you still have an aircharge, you can dash, then backheavy. It should be much easier to keep your speed this way as dashing locks your momentum for a bit giving you time to input the back direction.
 
-![17.gif](Resources/17.gif)
+![17.webp](Resources/17.webp)
 
 - - - -
 
@@ -596,14 +596,14 @@ It gets interesting when you follow up the cancels quickly with another attack. 
 
 Jump → Buffer a heavy → During the windup animation buffer another jump and a heavy. 
 
-![18.gif](Resources/18.gif)
+![18.webp](Resources/18.webp)
 
 \
 Dash canceling is the odd one of the group because it requires timing the press of ‘dash’ after the windup has finished. Try doing this:
 
 Dash → Immediately do a heavy attack → Wait for the windup to finish → Press 'dash' → Immediately heavy again.
 
-![19.gif](Resources/19.gif)
+![19.webp](Resources/19.webp)
 
 \
 It’s a very useful technique for dealing with enemies which take more than one heavy attack to clear. However when timing the dash presses you have to take into account hitstop which occurs on each connecting hit (check <a href="https://github.com/czarek7711/test#hitstop">Hitstop</a> section below for more information).
@@ -657,7 +657,7 @@ You can get good at mapler sliding by completing this map – dustforce://instal
 
 Remember to still hold the forward direction key when slope boosting, then release it and start holding up during the dash.
 
-![20.gif](Resources/20.gif)
+![20.webp](Resources/20.webp)
 
 - - - -
 
@@ -681,7 +681,7 @@ When your attack connects with an enemy the game logic slows down almost to a ha
 
 Another thing worth mentioning is that when buffering a jump + heavy before an attack is going to hit an enemy it’s important to start holding the heavy attack key only after hitstop has already begun. Otherwise buffering actually loses time rather than saving it.
 
-![21.gif](Resources/21.gif)
+![21.webp](Resources/21.webp)
 
 - - - -
 
@@ -736,7 +736,7 @@ You change your facing by:
 * Corner boosting (the same rule as with walljumping applies) or just ceiling running
 * Doing 2 reverse light attacks or a backlight followed by a backheavy
 
-![22.gif](Resources/22.gif)
+![22.webp](Resources/22.webp)
 
 - - - -
 
@@ -748,7 +748,7 @@ You change your facing by:
 
 Bottom left half of your character doesn’t have a hurtbox. What this means is that you can safely touch spikes with that part of your character.
 
-![23.gif](Resources/23.gif)
+![23.webp](Resources/23.webp)
 
 - - - -
 
@@ -760,7 +760,7 @@ Bottom left half of your character doesn’t have a hurtbox. What this means is 
 
 If you do a super while grabbing a wall and then release it before the attack is finished, you’re going to cancel the super. It has practical use only in a few custom maps where it’s intended but can sometimes happen on accident.
 
-![24.gif](Resources/24.gif)
+![24.webp](Resources/24.webp)
 
 - - - -
 
@@ -772,7 +772,7 @@ If you do a super while grabbing a wall and then release it before the attack is
 
 Attacking slows down the physics of your character to ~70%. The timer keeps running normally and all enemies behave normally as well. Check this demonstration:
 
-![25.gif](Resources/25.gif)
+![25.webp](Resources/25.webp)
 
 You can see how long it takes Dustman to fall to the ground without and with some attacks. This is why it’s important to try and use attacks only when they can actually save time.
 
@@ -786,7 +786,7 @@ You can see how long it takes Dustman to fall to the ground without and with som
 
 Due to a programming mistake friction while going to the left is considerably more harsh than when going to the right. Check how long it takes Dustman to reach each set of white tiles:
 
-![26.gif](Resources/26.gif)
+![26.webp](Resources/26.webp)
 
 - - - -
 
