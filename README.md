@@ -98,7 +98,8 @@ If you run into any technical difficulties during these two steps ask people fro
 
 ### Keyboard or Controller ###
 
-Whatever you find more comfortable. There are or were top players using either. If you decide to pick keyboard, whether to you use a mechanical one is up to your own preference as well. There are even players who prefer arcade sticks.
+Whatever you find more comfortable. There are or were top players using either. Until you become considerably experienced with the game you won’t be able to take advantage of unique differences each offers. 
+If you decide to pick keyboard, whether to you use a mechanical one is up to your own preference as well. There are even players who prefer arcade sticks.
 I use keyboard - Cougar 200K, although first half of my playtime was mostly on a laptop keyboard.
 
 Whatever you choose it’s very important to make sure your control scheme doesn’t suffer from ghosting (more on that below).
@@ -113,7 +114,7 @@ Whatever you choose it’s very important to make sure your control scheme doesn
 
 Here is a spreadsheet with bindings some players in the community use - https://docs.google.com/spreadsheets/d/1jRj5AwVUZjaTHa-s4hkeCyT0mikM3cAQnAR6-RYr7OA/edit?usp=sharing (for majority of the levels I use 8456 for directions and zxcv for dashing, jumping, light attacks and heavy attacks in that order). 
 
-I can’t offer anything besides it for controller players, but for keyboard it’s important to note that if your control scheme makes use of your pinky and ring finger, actions dedicated for them will probably be more difficult or taxing to execute. That’s why you can see most players not using pinky for dashing.
+Controller players using analog stick have to deal with potentially less precise inputs. For keyboard it’s important to note that if your control scheme makes use of your pinky and ring finger, actions dedicated for them will probably be more difficult or taxing to execute. That’s why you can see most players not using pinky for dashing.
 
 Make sure that with your bindings you can comfortably do combinations of non-direction inputs in quick succession, for example dash → jump → light, or jump → dash → 2x light → heavy. One of the reasons I use pinky for dashing, even though many people refrain from it, is that it makes the natural progression of dash → jump → attacks very easy to execute (I do use another finger if the map is heavy on dashing).
 
@@ -132,6 +133,8 @@ Open this page - https://drakeirving.github.io/MultiKeyDisplay/ and test these k
 * light + heavy + up + right
 * light + heavy + down + left
 * light + heavy + down + right
+
+<br />
 
 If all keys lit up for every combination then you’re good to go. If any weren’t possible then you should change your bindings, or in worst case scenario change your keyboard/try a controller.
 
@@ -335,7 +338,7 @@ Just in case here’s a clip of me doing the first one in slow motion, so you ca
 
 ### Ceiling run ###
 
-You may have noticed, that if you ceiling run for too long you start to slow down considerably. That’s because there’s no ceiling friction only for the first 1/3 of a second. After it kicks in you start to slow down and you’re glued to the ceiling (you can’t even downdash) for a short amount of time. It disrupts the flow of the run so make sure to avoid it. 
+You may have noticed, that if you ceiling run for too long you start to slow down considerably. That’s because there’s no ceiling friction only for the first 1/3 of a second. After it kicks in you start to slow down and you’re glued to the ceiling (you can’t even downdash) for a short amount of time. It disrupts the flow of the run so make sure to avoid it by releasing the ceiling early enough. 
 
 And here’s another practice map – dustforce://installPlay/9257/GUIDE2
 
@@ -391,6 +394,10 @@ With time you will learn where you can go and where you can’t go for groundboo
 Increasing then keeping your speed after landing on a 45<sup>o</sup> angled ground is called slope boosting. As long as you’re not going backwards you don’t have to worry about the landing angle necessary for the boost to work.
 
 Make sure to also hold ‘down’ until you leave the slope or you’re going to slow down if your dash rhythm isn’t frame perfect.
+
+![27.webp](Resources/27.webp)
+
+<br />
 
 It’s also worth noting that in situations where you can’t get a good slope boost, for example because there’s no way to gain much falling speed and your horizontal speed isn’t big, it’s better to simply slide down the slope.
 
