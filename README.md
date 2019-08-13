@@ -200,7 +200,9 @@ In Dustforce your character carries a lot of momentum which can’t be easily re
 
 If you ever find yourself in a situation where you can’t perform some simple technique for no apparent reason, it is most likely you either not being aware of something or just making a mistake. For example, I kept forgetting to hold ‘up’ to wall run.
 
-Lastly, Dustforce doesn’t include any rng elements affecting gameplay, which is one of the reasons why getting better feels satisfying.
+Even though this guide includes detailed explanations don't expect to be able to do most of the techniques immediately. It is going to require practice.
+
+But getting better will feel satisfying as Dustforce doesn’t include any rng elements affecting gameplay.
 
 \
 <a name="movement"/>
@@ -551,6 +553,7 @@ Combat Tutorial doesn’t mention that using the super attack gives back your ai
 ![92.png](Resources/92.png)
 
 Square checks for enemies, circle for dust and dustblocks.
+Lastly, there has to be a line of sight between your character and dust for super to clear it.
 
 - - - -
 
@@ -882,4 +885,4 @@ I hope that what I've written here proves to be useful. Have fun dusting and see
 
 Big thank you to Zaandaa for reading through the guide and suggesting some improvements, and indapop for his input on controller related parts.
 
-And lastly, some clips in the guide feature custom maps or just fog triggers made by Linley, Leap, C, Giamma, Dustcreep and Alexspeedy.
+And finally, some clips in the guide feature custom maps or just fog triggers made by Linley, Leap, C, Giamma, Dustcreep and Alexspeedy.
