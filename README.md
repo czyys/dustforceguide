@@ -98,15 +98,7 @@ If you run into any technical difficulties during these two steps ask people fro
 
 ### Keyboard or Controller ###
 
-Whatever you find more comfortable. There are or were top players using either. Until you become considerably experienced with the game you won’t be able to take advantage of unique differences each offers.
-
-However in case you’re on the fence and feel like knowing some differences is what’s going to make you choose one, then here’s some more information (without getting into specifics):
-
-* Analog stick makes sure you’re not going to accidentally hold both left and right when switching directions.
-* Tech requiring Double Tap Dash enabled is only effectively executable on keyboard. Because of this some top times strats on a few levels are significantly harder to do with controller.
-* Also with Double Tap Dash it’s easier to do very fast Ledge Cancels (used on almost every level). Very hard to take advantage of when using controller.
-	
-If you decide to pick keyboard, whether to you use a mechanical one is up to your own preference. Just like earlier, whatever feels better to you. There are even players who prefer arcade sticks.
+Whatever you find more comfortable. There are or were top players using either. If you decide to pick keyboard, whether to you use a mechanical one is up to your own preference as well. There are even players who prefer arcade sticks.
 I use keyboard - Cougar 200K, although first half of my playtime was mostly on a laptop keyboard.
 
 Whatever you choose it’s very important to make sure your control scheme doesn’t suffer from ghosting (more on that below).
@@ -131,11 +123,6 @@ The last important thing is to check if your control scheme is safe from ghostin
 
 Open this page - https://drakeirving.github.io/MultiKeyDisplay/ and test these keys combinations holding:
 
-* dash + jump + light + heavy + up + left
-* dash + jump + light + heavy + up + right
-* dash + jump + light + heavy + down + left
-* dash + jump + light + heavy + down + right
-
 * dash + jump + up + left
 * dash + jump + up + right
 * dash + jump + down + left
@@ -146,7 +133,7 @@ Open this page - https://drakeirving.github.io/MultiKeyDisplay/ and test these k
 * light + heavy + down + left
 * light + heavy + down + right
 
-If all keys lit up for every combination then you’re good to go. If only the last 8 were possible you won’t be able to do one tech used only on a few levels by top players. If any of the last 8 weren’t possible then you should change your bindings, or in worst case scenario change your keyboard/try a controller.
+If all keys lit up for every combination then you’re good to go. If any weren’t possible then you should change your bindings, or in worst case scenario change your keyboard/try a controller.
 
 - - - -
 
@@ -160,7 +147,7 @@ If all keys lit up for every combination then you’re good to go. If only the l
 Here are relevant settings I recommend using:
 
 * Display → Overlay → Show Input Display (adjust size and color to your liking) – self-explanatory, works for replays as well.
-* Tools → Editor → Editor Anywhere – allows to enter editor mode at any moment with editor aux key. It’s extremely useful as it allows you to practice levels from wherever you place the player spawn, but more on that later. Though in case you decide to try it out now just remember that **completing a level from start to finish while in editor mode makes your replay invalidate.** If there’s a flag (or any other icon for that matter) in the top right corner your replay won’t validate. Simply exit the level to remove the flag icon.
+* Tools → Editor → Editor Anywhere – allows to enter editor mode at any moment with 'tab' key. It’s extremely useful as it allows you to practice levels from wherever you place the player spawn, but more on that later. Though in case you decide to try it out now just remember that **completing a level from start to finish while in editor mode makes your replay invalidate.** If there’s a flag (or any other icon for that matter) in the top right corner your replay won’t validate. Simply exit the level to remove the flag icon.
 
 - - - -
 
@@ -886,6 +873,6 @@ To reset ghosts you have to disable Replay Ghosts and enable it.
 
 I hope that what I've written here proves to be useful. Have fun dusting and see you on the leaderboards!
 
-Big thank you to Zaandaa for reading through the guide and suggesting some improvements.
+Big thank you to Zaandaa for reading through the guide and suggesting some improvements, and indapop for his input on controller related parts.
 
 And lastly, some clips in the guide feature custom maps or just fog triggers made by Linley, Leap, C, Giamma, Dustcreep and Alexspeedy.
