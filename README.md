@@ -264,7 +264,7 @@ While we’re on the topic of dashing, it’s good to understand how exactly it 
 
 Stock tutorials fail to mention it but you can perform a technique called downdash in Dustforce. It gives you significant downwards speed if you didn’t have much of it to being with.
 
-There’s one condition for executing it – your character can’t be rising, or to be accurate, can’t be in a state called raise (more on that in the <a href="https://github.com/czarek7711/test#ledge-cancels-and-mantles">Ledge cancels and Mantles</a> section). This also includes hitrise occurring after you hit most enemies (more on that later as well - <a href="https://github.com/czarek7711/test#hitrise">Hitrise</a>). 
+There’s one condition for executing it – your character can’t be rising, or to be accurate, can’t be in a state called raise (more on that in the <a href="https://github.com/czyys/dustforceguide#ledge-cancels-and-mantles">Ledge cancels and Mantles</a> section). This also includes hitrise occurring after you hit most enemies (more on that later as well - <a href="https://github.com/czyys/dustforceguide#hitrise">Hitrise</a>). 
 
 Simply hold ‘down’ and press ‘dash’ to perform a downdash.
 
@@ -304,7 +304,7 @@ Here’s me walljumping as early as possible.
 And here’s how it looks like when the wall has spikes.
 
 
-You can walljump while holding any directions, although holding the direction towards the wall is going to affect your facing (see <a href="https://github.com/czarek7711/test#facing">Facing</a> section below).
+You can walljump while holding any directions, although holding the direction towards the wall is going to affect your facing (see <a href="https://github.com/czyys/dustforceguide#facing">Facing</a> section below).
 
 Lastly, your speed after walljumping is always the same, it doesn’t matter if you’re holding the direction key away from the wall.
 
@@ -606,7 +606,7 @@ Dash → Immediately do a heavy attack → Wait for the windup to finish → Pre
 ![19.webp](Resources/19.webp)
 
 \
-It’s a very useful technique for dealing with enemies which take more than one heavy attack to clear. However when timing the dash presses you have to take into account hitstop which occurs on each connecting hit (check <a href="https://github.com/czarek7711/test#hitstop">Hitstop</a> section below for more information).
+It’s a very useful technique for dealing with enemies which take more than one heavy attack to clear. However when timing the dash presses you have to take into account hitstop which occurs on each connecting hit (check <a href="https://github.com/czyys/dustforceguide#hitstop">Hitstop</a> section below for more information).
 
 \
 <a name="more-advanced-stuff"/>
