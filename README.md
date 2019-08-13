@@ -522,7 +522,7 @@ Try replaying it after clearing all the dust to test different attacks. You’re
 
 <a name="changing-directions-of-attacks"/>
 
-### Changing direction of attacks ###
+### Changing directions of attacks ###
 
 It’s possible to change the direction of your attack after you’ve initiated it but the new direction has to be inputted within a specific window. 
 
@@ -886,4 +886,6 @@ To reset ghosts you have to disable Replay Ghosts and enable it.
 
 I hope that what I've written here proves to be useful. Have fun dusting and see you on the leaderboards!
 
-And lastly, big thank you to Zaandaa for reading through the guide and suggesting some improvements.
+Big thank you to Zaandaa for reading through the guide and suggesting some improvements.
+
+And lastly, some clips in the guide feature custom maps or just fog triggers made by Linley, Leap, C, Giamma, Dustcreep and Alexspeedy.
