@@ -2,7 +2,7 @@
 
 *by czyys*
 
-![95.png](Resources/95.png)
+![95.webp](Resources/95.webp)
 
 <br />
 
@@ -29,7 +29,7 @@
 	* [Ground boosting](#ground-boosting)
 	* [Slope boosting](#slope-boosting)
 	* [Dash rhythm](#dash-rhythm)
-	* [Slant boosting](#slant-tboosting)
+	* [Slant boosting](#slant-boosting)
 	* [Ledge jump](#ledge-jump)
 	* [Ledge cancels and Mantles](#ledge-cancels-and-mantles)
 	* [Slopejump](#slopejump)
@@ -77,7 +77,9 @@ It provides information I wish I knew when I was learning the game myself, so it
 
 ## Before you begin ##
 
-I want to emphasize that you’re not meant to complete this guide in one go, before moving on to playing any nexus maps, especially if it’s just your Dustforce beginnings. This guide covers techniques which some players start learning only after getting SS on most of the stock maps. Go through it at your own tempo, leave it after learning new tech, play some maps then come back later. You can also go through “Movement” and “Combat” sections independently.
+I want to emphasize that you’re not meant to complete this guide in one go, before moving on to playing any nexus maps. This guide covers techniques which some players start learning only after getting SS on most of the stock maps. Go through it at your own tempo, leave it after learning new tech, play some maps then come back later. You can also go through “Movement” and “Combat” sections independently.
+
+If you’ve only began playing Dustforce I recommend not focusing on climbing up the leaderboards just yet. First get comfortable with controls and physics of your character by getting SS ranks on some maps in the nexus.
 
 <br /> 
 
@@ -99,6 +101,7 @@ If you run into any technical difficulties during these two steps ask people fro
 ### Keyboard or Controller ###
 
 Whatever you find more comfortable. There are or were top players using either. Until you become considerably experienced with the game you won’t be able to take advantage of unique differences each offers. 
+
 If you decide to pick keyboard, whether to you use a mechanical one is up to your own preference as well. There are even players who prefer arcade sticks.
 I use keyboard - Cougar 200K, although first half of my playtime was mostly on a laptop keyboard.
 
@@ -149,8 +152,8 @@ If all keys lit up for every combination then you’re good to go. If any weren�
 
 Here are relevant settings I recommend using:
 
-* Display → Overlay → Show Input Display (adjust size and color to your liking) – self-explanatory, works for replays as well.
-* Tools → Editor → Editor Anywhere – allows to enter editor mode at any moment with 'tab' key. It’s extremely useful as it allows you to practice levels from wherever you place the player spawn, but more on that later. Though in case you decide to try it out now just remember that **completing a level from start to finish while in editor mode makes your replay invalidate.** If there’s a flag (or any other icon for that matter) in the top right corner your replay won’t validate. Simply exit the level to remove the flag icon.
+* Display → Overlay → Show Input Display (adjust size and color to your liking) - self-explanatory, works for replays as well.
+* Tools → Editor → Editor Anywhere - allows to enter editor mode at any moment with 'tab' key. It’s extremely useful as it allows you to practice levels from wherever you place the player spawn, but more on that later. Though in case you decide to try it out now just remember that **completing a level from start to finish while in editor mode makes your replay invalidate.** If there’s a flag (or any other icon for that matter) in the top right corner your replay won’t validate. Simply exit the level to remove the flag icon.
 
 - - - -
 
@@ -181,9 +184,15 @@ You can drop combo either by:
 
 ### Characters and their differences ###
 
-By this point you should be at least somewhat familiar with Dustman, as he’s the only character available in the tutorials. Dustgirl is very similar to him but Dustkid and Dustworth have some significant differences.
+By this point you should be at least somewhat familiar with Dustman, as he’s the only character available in the tutorials. 
 
-A more detailed breakdown is available here – https://www.dustforce.info/#playable-characters
+Dustgirl is very similar to him.
+
+Dustkid can triple-jump, although her jumps are smaller, and her attacks are much faster while also having shorter range.
+
+Dustworth has the slowest, but largest attacks and also can jump heighest of all characters.
+
+A more detailed breakdown is available here - https://bin.disroot.org/?e866275523f09afc#wlkFiLNt1U7F6Ny7w67Rjtst338tWK+TUULhzXQIUvU=
 
 Generally you can trust the in-game top 10 leaderboards in what character is optimal on each map. Feel free to experiment though and play whatever character feels best to you for a particular map. There are even players who main only one character.
 
@@ -238,13 +247,13 @@ While we’re on the topic of dashing, it’s good to understand how exactly it 
 
 * Ground Dashes
 	* If your speed is below your normal running speed it immediately puts you at it and locks your momentum for 12/13 frames (There's 60 frames in a second).
-	* The same applies if your speed is above it with one important difference – it locks your momentum at your current speed.
-	* You can cancel out of it by jumping, wallrunning or attacking.
+	* The same applies if your speed is above it with one important difference - it locks your momentum at your current speed.
+	* You can cancel out of it by jumping, grabbing a wall or attacking.
 
 * Air Dashes
 	* Point 1 applies the same.
 	* Point 2 is more complicated and I’m not going to get into it in this guide. For now don’t worry about it.
-	* You can cancel out of it only by jumping and wallrunning.
+	* You can cancel out of it only by jumping or grabbing a wall.
 	
 - - - -
 
@@ -256,9 +265,9 @@ While we’re on the topic of dashing, it’s good to understand how exactly it 
 
 Stock tutorials fail to mention it but you can perform a technique called downdash in Dustforce. It gives you significant downwards speed if you didn’t have much of it to being with.
 
-There’s one condition for executing it – your character can’t be rising, or to be accurate, can’t be in a state called raise (more on that in the <a href="https://github.com/czyys/dustforceguide#ledge-cancels-and-mantles">Ledge cancels and Mantles</a> section). This also includes hitrise occurring after you hit most enemies (more on that later as well - <a href="https://github.com/czyys/dustforceguide#hitrise">Hitrise</a>). 
+There’s one condition for executing it - your character can’t be rising, or to be accurate, can’t be in a state called raise (more on that in the <a href="https://github.com/czyys/dustforceguide#ledge-cancels-and-mantles">Ledge cancels and Mantles</a> section). This also includes hitrise occurring after you hit most enemies (more on that later as well - <a href="https://github.com/czyys/dustforceguide#hitrise">Hitrise</a>). 
 
-Simply hold ‘down’ and press ‘dash’ to perform a downdash.
+When in the air simply hold ‘down’ and press ‘dash’ to perform a downdash.
 
 - - - -
 
@@ -268,7 +277,7 @@ Simply hold ‘down’ and press ‘dash’ to perform a downdash.
 
 ### Jumping ###
 
-If you’re not sure, for a normal ground jump there are only two kinds of it – low jump and high jump. If you hold the ‘jump’ key for the entire duration of jump squat animation (which in a usual scenario lasts 8 frames) you’re going to do a high jump. Holding jump any shorter will result in a low jump.
+If you’re not sure, for a normal ground jump there are only two kinds of it - low jump and high jump. If you hold the ‘jump’ key for the entire duration of jump squat animation (which in a usual scenario lasts 8 frames) you’re going to do a high jump. Holding jump any shorter will result in a low jump.
 
 There is no height you can reach in between them by holding the ‘jump’ key shorter/longer like in some other games. And there is only one kind of airjump, you don’t need to hold ‘jump’ after you’ve pressed it.
 
@@ -322,9 +331,9 @@ Make sure to delay jumping after walldashing enough.
 
 ### Corner boosts ###
 
-![91.png](Resources/91.png)
+![91.webp](Resources/91.webp)
 
-To go fast through sections like the ones from the image above you do what is called a corner boost. This practice map explains how to do them – dustforce://installPlay/9256/GUIDE1 (**Play using Dustman for all of the practice maps**).
+To go fast through sections like the ones from the image above you do what is called a corner boost. This practice map explains how to do them - dustforce://installPlay/9256/GUIDE1 (**Play using Dustman for all of the practice maps**).
 
 Copy the link into your browser's address bar. If you’re having issues installing the map run dustmod.exe as administrator just once.
 
@@ -342,7 +351,7 @@ Just in case here’s a clip of me doing the first one in slow motion, so you ca
 
 You may have noticed, that if you ceiling run for too long you start to slow down considerably. That’s because there’s no ceiling friction only for the first 1/3 of a second. After it kicks in you start to slow down and you’re glued to the ceiling (you can’t even downdash) for a short amount of time. It disrupts the flow of the run so make sure to avoid it by releasing the ceiling early enough. 
 
-And here’s another practice map – dustforce://installPlay/9257/GUIDE2
+And here’s another practice map - dustforce://installPlay/9257/GUIDE2
 
 - - - -
 
@@ -354,6 +363,8 @@ And here’s another practice map – dustforce://installPlay/9257/GUIDE2
 
 It’s one of the core techniques of Dustforce and it refers to boosts started on a flat ground. Whether you’re able to even get a groundboost depends on the angle you hit the ground at. Without going into technical details, you have to make sure your horizontal speed is big enough compared to your falling, vertical speed.
 
+If the landing angle was good and your character is running faster, simply hold the forward direction key and press 'dash' to keep that speed (you can also still be holding 'down'). The earlier you press dash after landing, the more speed you're going to keep. This applies to any kind of boosts started on the ground.
+ 
 Here’s how you set up groundboosts with each character:
 
 It’s pretty much the same for Dustman and Dustgirl:
@@ -395,7 +406,7 @@ With time you will learn where you can go and where you can’t go for groundboo
 
 Increasing then keeping your speed after landing on a 45<sup>o</sup> angled ground is called slope boosting. As long as you’re not going backwards you don’t have to worry about the landing angle necessary for the boost to work.
 
-Make sure to also hold ‘down’ until you leave the slope or you’re going to slow down if your dash rhythm isn’t frame perfect.
+Downdash into a slope holding forward and 'down' and dash when you reach the ground. Make sure to hold ‘down’ until you leave the slope or you’re going to slow down.
 
 ![27.webp](Resources/27.webp)
 
@@ -411,31 +422,41 @@ Sliding down a slope has a relatively low maximum speed, that's why it’s rarel
 
 <a name="dash-rhythm"/>
 
-### Dash Rhythm ###
+### Dash rhythm ###
 
-Speaking of dash rhythm, If you’ve noticed me chaining dashes together in the last ground boosting clip, it’s how you maintain your speed in Dustforce. Pressing ‘dash’ repeatedly at correct intervals to keep as much speed as possible is referred to as dash rhythm. 
+If you’ve noticed me chaining dashes together in the last ground boosting clip, it’s how you maintain your speed in Dustforce. Pressing ‘dash’ repeatedly at correct intervals to keep as much speed as possible is referred to as dash rhythm. 
 
 Without going into technical details, optimally dashes are inputted in a pattern of 12 and 13 frames intervals. Ideally you want to dash as soon as previous dash ends, this way you keep all of your speed. The bigger the break between dashing the more speed you lose, but if the break is too small you drop the dash entirely.
 
 If it’s just your beginnings with dash rhythm try to focus on making it consistent and not dropping any dashes rather than going for very good intervals. Delaying the dashes for a few frames doesn’t loose that much time if the boost isn’t long and especially when compared to missing a dash.
 
-Try this practice map – dustforce://installPlay/9258/GUIDE3
+Try this practice map - dustforce://installPlay/9258/GUIDE3
 
-And if you want, play this custom map – dustforce://installPlay/4999/Slope-Boost-Rhythm
+And if you want, play this custom map - dustforce://installPlay/4999/Slope-Boost-Rhythm
 
 For practicing extended dash rhythm you can consider enabling Boost Trainer which you can find in Dustmod → Tools. What also helps some players is a 275 BPM metronome playing in the background.
+
+Keeping the dash rhythm makes sense only when you're moving faster then your normal running speed. For example, there's no point in doing it right after you've started running from a standstill, and in case of Dustworth it would even be detrimental.
+
+Lastly, don't mash the 'dash' key instead of timing the presses. It's a very bad idea.
 
 - - - -
 
 <br /> 
 
-<a name="slant-tboosting"/>
+<a name="slant-boosting"/>
 
-### Slant Boosting ###
+### Slant boosting ###
 
 Ground angled at ~26<sup>o</sup> is referred to as a slant and usually you boost off of it while not having much height. For example downdashing directly from a 5 tiles high platform is too much for normal running speed. In the clip below I’m decreasing my height a bit first.
 
 ![13.webp](Resources/13.webp)
+
+<br />
+
+Occasionally you're going to come across geometry where slants turn into slopes and vice versa. Because they require different setups for boosting, try to land on the correct one, depending on which boost you're going for.
+
+![96.webp](Resources/96.webp)
 
 - - - -
 
@@ -447,7 +468,7 @@ Ground angled at ~26<sup>o</sup> is referred to as a slant and usually you boost
 
 When you ground jump your character enters jump squat animation before leaving the ground. If you’re boosting and press ‘jump’ the squat is going to kill nearly all of your speed. However you can cancel that animation by leaving the ground before it finishes. You’re going to jump at the very edge and your speed is going to be preserved.
 
-Try it in this practice map – dustforce://installPlay/9259/GUIDE4
+Try it in this practice map - dustforce://installPlay/9259/GUIDE4
 
 ![14.webp](Resources/14.webp)
 
@@ -508,7 +529,7 @@ Even though it’s called “Spikejump” it works the same way on slopes withou
 
 In Dustforce you can hit enemies through walls, but with up and down attacks you can also clear dust through walls (ceilings and floors too for that matter). It’s extremely useful so always keep it in mind when figuring out strats for a map. 
 
-Play this practice map to test how it works – dustforce://installPlay/9260/GUIDE5
+Play this practice map to test how it works - dustforce://installPlay/9260/GUIDE5
 
 Try replaying it after clearing all the dust to test different attacks. You’re going to notice that for some geometry up and down attacks aren’t the best option.
 
@@ -550,10 +571,11 @@ When you want to do a backheavy while moving forward in the air, it’s importan
 
 Combat Tutorial doesn’t mention that using the super attack gives back your aircharge/s, even if it doesn’t clear anything. It’s also good to know what its range is more or less, for enemies and for dust.
 
-![92.png](Resources/92.png)
+![92.webp](Resources/92.webp)
 
 Square checks for enemies, circle for dust and dustblocks.
-Lastly, there has to be a line of sight between your character and dust for super to clear it.
+
+There has to be a line of sight between your character and dust for super to clear it.
 
 - - - -
 
@@ -572,7 +594,11 @@ In Dustforce you can buffer any action (but not in any situation) not related to
 * Pressing the key for a heavy attack while still doing a light attack.
 * Spikejump is a buffered slopejump (unless you press ‘jump’ on the very frame you land on the slope).
 
-Buffering inputs is one of the key aspects of Dustforce as you often find yourself in situations where you have to wait for one action to finish before starting another. It ensures that the next action is going to start immediately, without losing precious time. This doesn’t mean you should buffer every input though. With time and by watching better players you should learn how to make good use of it.
+Buffering inputs is one of the key aspects of Dustforce as you often find yourself in situations where you have to wait for one action to finish before starting another. It ensures that the next action is going to start immediately, without losing precious time.
+
+This doesn’t mean you should buffer every input. And remember that when an action requires only a single press to be buffered, once that input is recognized by the game, you can't cancel the buffered action in any way.
+
+With time and by watching better players you should learn how to make good use of it.
 
 - - - -
 
@@ -650,7 +676,7 @@ Timing on the forward press depends on what you want to use mapler slide for:
 * For keeping speed the optimal delay is 15 frames for non-virtual Dustman, and 10 frames for all the other characters. That’s why from non-virtual characters Dustman is usually the preferred one when maplers are involved. 
 * For distance, when you don’t have much speed to begin with, the delay should be longer. 
 
-You can get good at mapler sliding by completing this map – dustforce://installPlay/4970/Mapler-slide-practice
+You can get good at mapler sliding by completing this map - dustforce://installPlay/4970/Mapler-slide-practice
 
 Remember to still hold the forward direction key when slope boosting, then release it and start holding up during the dash.
 
@@ -690,7 +716,7 @@ Another thing worth mentioning is that when buffering a jump + heavy before an a
 
 You can stand on the corners of spiked tiles.
 
-![93.png](Resources/93.png)
+![93.webp](Resources/93.webp)
 
 It’s possible to even jump and boost off of jorfs. They’re extremely precise but sometimes they just happen on accident.
 
@@ -704,7 +730,7 @@ It’s possible to even jump and boost off of jorfs. They’re extremely precise
 
 It’s also possible to stand on the corner of slants. Spikestands are less precise to land than jorfs.
 
-![94.png](Resources/94.png)
+![94.webp](Resources/94.webp)
 
 - - - -
 
@@ -804,9 +830,7 @@ It is possible to clear all enemies and dust and get an A completion rank when f
 
 ### Improving ranks ###
 
-Completing the guide up until this point gives you more than enough knowledge to be able to get better effectively. If you’ve only began playing Dustforce I recommend not focusing on climbing up the leaderboards just yet. First get comfortable with controls and physics of your character by getting SS ranks on some maps in the nexus.
-
-When you start feeling confident try learning and implementing basic techniques like boosting and ledge cancels into your SS runs. At that point, if you’re interested in more than simply beating maps for SS completions, you should be ready to begin focusing on improving your ranks. 
+Completing the guide up until this point gives you more than enough knowledge to be able to get better effectively. If you’re interested in more than simply beating maps for SS completions, you should be ready to begin focusing on improving your ranks. 
 
 Many players look at their position only on the “Score” (or SS) leaderboards, but I want to bring into your attention the “Time” (or any%) leaderboards as well. The goal is still to beat the map as fast as possible, but here your Completion and Finesse ranks don’t matter (except for when two runs have the same time).
 
@@ -869,9 +893,10 @@ To reset ghosts you have to disable Replay Ghosts and enable it.
 
 * https://www.youtube.com/channel/UC4H4b4BwJJYmUo_iZwF3WCQ - Dustforce Helpdesk channel has one more video not mentioned here and they may upload something in the future.
 * https://www.dustforce.info/ - A Dustforce wiki. It’s still a work-in-progress but it already offers tons of information.
-* https://imgur.com/a/jtzG0 – Dustforce Attack Hitbox Sizes and Positions. Although don’t trust the final image as it shows some of the hitboxes incorrectly.
+* https://imgur.com/a/jtzG0 - Dustforce Attack Hitbox Sizes and Positions. Although don’t trust the final image as it shows some of the hitboxes incorrectly.
+* https://imgur.com/a/mF3HC - Names community has given to each enemy.
 * https://www.reddit.com/r/dustforce/ - Dustforce reddit
-* https://discordapp.com/invite/0SkxtG7ddS6n2BCW – Invitation link for Dustforce Discord server
+* https://discordapp.com/invite/0SkxtG7ddS6n2BCW - Invitation link for Dustforce Discord server
 
 - - - -
 
