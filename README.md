@@ -363,7 +363,7 @@ And here’s another practice map - dustforce://installPlay/9257/GUIDE2
 
 It’s one of the core techniques of Dustforce and it refers to boosts started on a flat ground. Whether you’re able to even get a groundboost depends on the angle you hit the ground at. Without going into technical details, you have to make sure your horizontal speed is big enough compared to your falling, vertical speed.
 
-If the landing angle was good and your character is running faster, simply hold the forward direction key and press 'dash' to keep that speed (you can also still be holding 'down'). The earlier you press dash after landing, the more speed you're going to keep. This applies to any kind of boosts started on the ground.
+If the landing angle was good and your character is running faster, simply hold the forward direction key and press 'dash' to keep that speed (you can also still be holding 'down'). The earlier you press 'dash' after landing, the more speed you're going to keep. This applies to any kind of boosts started on the ground.
  
 Here’s how you set up groundboosts with each character:
 
@@ -406,7 +406,7 @@ With time you will learn where you can go and where you can’t go for groundboo
 
 Increasing then keeping your speed after landing on a 45<sup>o</sup> angled ground is called slope boosting. As long as you’re not going backwards you don’t have to worry about the landing angle necessary for the boost to work.
 
-Downdash into a slope holding forward and 'down' and dash when you reach the ground. Make sure to hold ‘down’ until you leave the slope or you’re going to slow down.
+Downdash into a slope holding forward and 'down' and dash when you reach the ground. Make sure to hold ‘down’ until you leave the slope or you’re most likely going to slow down (this concerns especially slope boosts started on higher parts of long slopes).
 
 ![27.webp](Resources/27.webp)
 
@@ -436,7 +436,7 @@ And if you want, play this custom map - dustforce://installPlay/4999/Slope-Boost
 
 For practicing extended dash rhythm you can consider enabling Boost Trainer which you can find in Dustmod → Tools. What also helps some players is a 275 BPM metronome playing in the background.
 
-Keeping the dash rhythm makes sense only when you're moving faster then your normal running speed. For example, there's no point in doing it right after you've started running from a standstill, and in case of Dustworth it would even be detrimental.
+Keeping the dash rhythm makes sense only when you're moving faster than your normal running speed. For example, there's no point in doing it right after you start running from a standstill, and in case of Dustworth it would even be detrimental.
 
 Lastly, don't mash the 'dash' key instead of timing the presses. It's a very bad idea.
 
