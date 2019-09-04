@@ -36,6 +36,7 @@
 	* [Spikejump](#spikejump)
 * [Combat](#combat)
 	* [Clearing dust through walls](#clearing-dust-through-walls)
+	* [Dust spread](#dust-spread)
 	* [Changing directions of attacks](#changing-directions-of-attacks)
 	* [Super attack](#super-attack)
 	* [Buffering](#buffering)
@@ -68,7 +69,7 @@
 
 ## Introduction ##
 
-This guide is made for those only starting or having just started their journey with Dustforce, however I expect even players with the Steam achievement to learn something new by going through it. Players thinking about, or maybe even set on focusing on climbing stock maps’ leaderboards in the long run should find it especially helpful. 
+This guide is made for those only starting or having just started their journey with Dustforce DX, however I expect even players with the Steam achievement to learn something new by going through it. Players thinking about, or maybe even set on focusing on climbing stock maps’ leaderboards in the long run should find it especially helpful. 
 
 It provides information I wish I knew when I was learning the game myself, so it’s just my own perspective and input on improving your skills. I’m a mostly inactive Dustforce player with a little over 2000 hours of playtime, most of which was spent on playing custom maps, the rest on playing stock maps and making my own customs. I’ve had ideas popping into my head for a guide like this for a long time, in fact my very first custom map was an attempt at a simple tutorial level, which is now hidden on Atlas as it became obsolete with the release of this guide.
 
@@ -537,6 +538,20 @@ Try replaying it after clearing all the dust to test different attacks. You’re
 
 <br /> 
 
+<a name="dust-spread"/>
+
+### Dust spread ###
+
+As you know clearing enemies with heavy attacks makes them spread dust on surfaces without spikes. The only things affecting the dust spread are position of the enemy and direction of your attack. Position of your character doesn't matter.
+
+As a sidenote, sideheavies don't spread dust on flat and sloped ceilings.
+
+![28.webp](Resources/28.webp)
+
+- - - -
+
+<br /> 
+
 <a name="changing-directions-of-attacks"/>
 
 ### Changing directions of attacks ###
@@ -757,7 +772,7 @@ You change your facing by:
 * Running the other way
 * Walljumping (only if not holding the direction towards the wall)
 * Corner boosting (the same rule as with walljumping applies) or just ceiling running
-* Doing 2 reverse light attacks or a backlight followed by a backheavy
+* Doing 2 reverse light attacks or a backlight followed by a backheavy (on the ground or in the air)
 
 ![22.webp](Resources/22.webp)
 
