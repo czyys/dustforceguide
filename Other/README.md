@@ -6,6 +6,6 @@ If you slow down your character to a very low speed and press 'jump' without hol
 
 It's used mainly for optimizations by high level players, but even newer can use it to set up drops like in the clip below.
 
-![30.webp](Resources/30.webp)
+![30.webp](dustforceguide/Resources/30.webp)
 
 - - - -

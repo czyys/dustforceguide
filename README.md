@@ -368,16 +368,14 @@ It’s one of the core techniques of Dustforce and it refers to boosts started o
 
 If the landing angle was good and your character is running faster, simply hold the forward direction key and press 'dash' to keep that speed (you can also still be holding 'down'). The earlier you press 'dash' after landing, the more speed you're going to keep. This applies to any kind of boosts started on the ground.
 
-To help you understand what I mean by not being able to get a ground boost check out the this comparison:
+To help you understand what I mean by not being able to get a ground boost check out this comparison:
 
 ![29.webp](Resources/29.webp)
 
 \
 In both clips I'm doing basically the same inputs, but I'm downdashing from a little bit higher in the second one. This means I'm accelerating for longer after downdashing, and I'm hitting the ground at a slightly too big of an angle for the boost to work. If you can't easily tell that I'm running faster in the left clip then compare where Dustman stops in both examples. 
  
-Here’s how you set up groundboosts with each character:
-
-It’s pretty much the same for Dustman and Dustgirl:
+Here’s how you set up groundboosts with each character. It’s pretty much the same for Dustman and Dustgirl:
 
 Dash → Lowjump quickly followed by Airjump → Downdash → Dash when you hit the ground.
 
@@ -393,7 +391,7 @@ Dash → Highjump → just before you reach the top of the jump arc Dash -> imme
 ![10.webp](Resources/10.webp)
 
 \
-Dustworth does the same inputs as Dustman and Dustgirl, but the setup is considerably more difficult. The airjump has to be inputted very quickly, otherwise you'll be too high to downdash immediately and be able to get the boost. 
+Dustworth does the same inputs as Dustman and Dustgirl, but the setup is considerably more difficult. The airjump has to be inputted very quickly, otherwise you'll be too high to downdash immediately and still be able to get the boost. 
 
 ![11.webp](Resources/11.webp)
 
@@ -403,7 +401,7 @@ You can also of course get ground boosts simply by utilizing the geometry around
 ![12.webp](Resources/12.webp)
 
 \
-Setting up ground boosts is difficult for beginners because it usually requires quick 'jump' inputs and a reasonably well timed dash upon landing. It also takes time to get a feel for what horizontal speed do you need depending on your height from which you downdash or simply fall. 
+Setting up ground boosts is difficult for beginners because it usually requires quick 'jump' inputs and a reasonably well timed dash upon landing. It also takes time to get a feel for what horizontal speed you need depending on your height from which you downdash or simply fall. 
 
 - - - -
 
