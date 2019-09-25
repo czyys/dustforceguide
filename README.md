@@ -120,7 +120,7 @@ Here is a spreadsheet with bindings some players in the community use - https://
 
 Controller players using analog stick have to deal with potentially less precise inputs. For keyboard it’s important to note that if your control scheme makes use of your pinky and ring finger, actions dedicated for them will probably be more difficult or taxing to execute. That’s why you can see most players not using pinky for dashing.
 
-Make sure that with your bindings you can comfortably do combinations of non-direction inputs in quick succession, for example dash → jump → light, or jump → dash → 2x light → heavy. One of the reasons I use pinky for dashing, even though many people refrain from it, is that it makes the natural progression of dash → jump → attacks very easy to execute (I do use another finger if the map is heavy on dashing).
+Make sure that with your bindings you can comfortably do combinations of non-direction inputs in quick succession, for example dash → jump → light → heavy. One of the reasons I use pinky for dashing, even though many people refrain from it, is that it makes the natural progression of dash → jump → attacks very easy to execute (I do use another finger if the map is heavy on dashing).
 
 Other than that choose whatever feels comfortable. You can always adjust bindings later, when you learn new tech. 
 
@@ -154,7 +154,7 @@ If all keys lit up for every combination then you’re good to go. If any weren�
 Here are relevant settings I recommend using:
 
 * Display → Overlay → Show Input Display (adjust size and color to your liking) - self-explanatory, works for replays as well.
-* Tools → Editor → Editor Anywhere - allows to enter editor mode at any moment with 'tab' key. It’s extremely useful as it allows you to practice levels from wherever you place the player spawn, but more on that later. Though in case you decide to try it out now just remember that **completing a level from start to finish while in editor mode makes your replay invalidate.** If there’s a flag (or any other icon for that matter) in the top right corner your replay won’t validate. Simply exit the level to remove the flag icon.
+* Tools → Editor → Editor Anywhere - allows to enter editor mode at any moment with 'tab' key. It’s extremely useful as it allows you to practice levels from wherever you place the player spawn, but more on that later. Though in case you decide to try it out now just remember that **completing a level from start to finish while in editor mode makes your run invalidate.** If there’s a flag (or any other icon for that matter) in the top right corner your replay won’t validate. Simply exit the level to remove the flag icon.
 
 - - - -
 
@@ -167,7 +167,7 @@ Here are relevant settings I recommend using:
 
 If you went through the stock tutorials without carefully reading all the instructions then go back and do it now. They cover only some of the essentials, but it’s necessary to make sure you haven’t missed anything.
 
-One thing they don’t mention is the conditions to get a double S rank when completing a level. You need to: 
+One of the things they don’t mention is the conditions to get a double S rank when completing a level. You need to: 
 * collect all the dust in the level
 * clear all enemies
 * avoid dropping combo
@@ -185,13 +185,13 @@ You can drop combo either by:
 
 ### Characters and their differences ###
 
-By this point you should be at least somewhat familiar with Dustman, as he’s the only character available in the tutorials. 
+By this point you should be at least somewhat familiar with Dustman (blue), as he’s the only character available in the tutorials. 
 
-Dustgirl is very similar to him.
+Dustgirl (red) is very similar to him.
 
-Dustkid can triple-jump, although her jumps are smaller, and her attacks are much faster while also having shorter range.
+Dustkid (purple) can triple-jump, although her jumps are smaller, and her attacks are much faster while also having shorter range.
 
-Dustworth has the slowest, but largest attacks and also can jump heighest of all characters.
+Dustworth (green) has the slowest, but largest attacks and also can jump heighest of all characters.
 
 A more detailed breakdown is available here - https://bin.disroot.org/?e866275523f09afc#wlkFiLNt1U7F6Ny7w67Rjtst338tWK+TUULhzXQIUvU=
 
@@ -254,7 +254,7 @@ While we’re on the topic of dashing, it’s good to understand how exactly it 
 * Air Dashes
 	* Point 1 applies the same.
 	* Point 2 is more complicated and I’m not going to get into it in this guide. For now don’t worry about it.
-	* You can cancel out of it only by jumping or grabbing a wall.
+	* You can cancel out of it only by jumping or grabbing a wall (this means that you can attack while dashing).
 	
 - - - -
 
@@ -270,6 +270,8 @@ There’s one condition for executing it - your character can’t be rising, or 
 
 When in the air simply hold ‘down’ and press ‘dash’ to perform a downdash.
 
+Once you downdash any additional downdashes don't give any extra speed, there's no reason to do them.
+
 - - - -
 
 <br /> 
@@ -278,9 +280,9 @@ When in the air simply hold ‘down’ and press ‘dash’ to perform a downdas
 
 ### Jumping ###
 
-If you’re not sure, for a normal ground jump there are only two kinds of it - low jump and high jump. If you hold the ‘jump’ key for the entire duration of jump squat animation (which in a usual scenario lasts 8 frames) you’re going to do a high jump. Holding jump any shorter will result in a low jump.
+If you’re not sure, for a normal ground jump there are only two kinds of it - low jump (also reffered to as short hop) and high jump. If you hold the ‘jump’ key for the entire duration of jump squat animation (which in a usual scenario lasts 8 frames) you’re going to do a high jump. Holding 'jump' any shorter will result in a low jump.
 
-There is no height you can reach in between them by holding the ‘jump’ key shorter/longer like in some other games. And there is only one kind of airjump, you don’t need to hold ‘jump’ after you’ve pressed it.
+There is no height you can reach in between them by holding the ‘jump’ key shorter/longer like in some other games. And there is only one kind of airjump, holding 'jump' doesn't affect its height.
 
 If sometimes after jumping off a ledge you don’t seem to be able to double-jump, it’s because you pressed ‘jump’ while already being off the ground. You can differentiate normal groundjump from an airjump by the “cloud” below your character the second one produces.
 
@@ -294,7 +296,7 @@ If sometimes after jumping off a ledge you don’t seem to be able to double-jum
 
 ### Walljump ###
 
-The important thing to bring up here is that the sprite of your character doesn’t have to be touching the wall to be able to walljump. When you’re close enough to a wall, a jump input is going to magnet your character to it. This is why you sometimes might die to a spiked wall even though you’re not touching it.
+The important thing to bring up here is that the sprite of your character doesn’t have to be touching the wall to be able to initiate a walljump. When you’re close enough to a wall, a jump input is going to magnet your character to it. This is why you sometimes might die to a spiked wall even though you’re not touching it.
 
 ![3.webp](Resources/3.webp)
 
@@ -362,9 +364,16 @@ And here’s another practice map - dustforce://installPlay/9257/GUIDE2
 
 ### Ground boosting ###
 
-It’s one of the core techniques of Dustforce and it refers to boosts started on a flat ground. Whether you’re able to even get a groundboost depends on the angle you hit the ground at. Without going into technical details, you have to make sure your horizontal speed is big enough compared to your falling, vertical speed.
+It’s one of the core techniques of Dustforce and it refers to boosts started on a flat ground. Whether you’re even able to get a groundboost depends on the angle you hit the ground at. Without going into technical details, you have to make sure your horizontal speed is big enough compared to your falling, vertical speed.
 
 If the landing angle was good and your character is running faster, simply hold the forward direction key and press 'dash' to keep that speed (you can also still be holding 'down'). The earlier you press 'dash' after landing, the more speed you're going to keep. This applies to any kind of boosts started on the ground.
+
+To help you understand what I mean by not being able to get a ground boost check out the this comparison:
+
+![29.webp](Resources/29.webp)
+
+\
+In both clips I'm doing basically the same inputs, but I'm downdashing from a little bit higher in the second one. This means I'm accelerating for longer after downdashing, and I'm hitting the ground at a slightly too big of an angle for the boost to work. If you can't easily tell that I'm running faster in the left clip then compare where Dustman stops in both examples. 
  
 Here’s how you set up groundboosts with each character:
 
@@ -379,12 +388,12 @@ Dash → Lowjump quickly followed by Airjump → Downdash → Dash when you hit 
 \
 Inputs for Dustkid are a bit different:
 
-Dash→ Highjump → just before you reach the top of the jump arc Dash -> immediately Jump → Downdash → Dash.
+Dash → Highjump → just before you reach the top of the jump arc Dash -> immediately Jump → Downdash → Dash.
 
 ![10.webp](Resources/10.webp)
 
 \
-Dustworth does the same inputs as Dustman and Dustgirl, but the setup is considerably more difficult. The window for the downdash is very small, because downdashing at greater height results in angle with the ground being too big for the boost to work. 
+Dustworth does the same inputs as Dustman and Dustgirl, but the setup is considerably more difficult. The airjump has to be inputted very quickly, otherwise you'll be too high to downdash immediately and be able to get the boost. 
 
 ![11.webp](Resources/11.webp)
 
@@ -394,8 +403,7 @@ You can also of course get ground boosts simply by utilizing the geometry around
 ![12.webp](Resources/12.webp)
 
 \
-With time you will learn where you can go and where you can’t go for groundboosts.
-
+Setting up ground boosts is difficult for beginners because it usually requires quick 'jump' inputs and a reasonably well timed dash upon landing. It also takes time to get a feel for what horizontal speed do you need depending on your height from which you downdash or simply fall. 
 
 - - - -
 
@@ -415,7 +423,7 @@ Downdash into a slope holding forward and 'down' and dash when you reach the gro
 
 It’s also worth noting that in situations where you can’t get a good slope boost, for example because there’s no way to gain much falling speed and your horizontal speed isn’t big, it’s better to simply slide down the slope.
 
-Sliding down a slope has a relatively low maximum speed, that's why it’s rarely the optimal strat.
+Sliding down a slope has a relatively low maximum speed and it takes a while to reach it, that's why it’s rarely the optimal strat.
 
 - - - -
 
@@ -511,7 +519,7 @@ It’s used really only in top runs where every frame matters and jump squat was
 
 Probably the most well known tech which obviously makes use of questionable way the game’s logic works on slopes. It allows you to immediately jump off of slopes (so only ground angled at 45<sup>o</sup>) even if they have spikes. And it’s fairly easy to perform. 
 
-When you’re in the air and don’t have any aircharges left (it’s what you use up when you dash or jump in the air), land on a slope while holding ‘down’ and ‘jump’. If you used your aircharge on an airjump make sure to also release the ‘jump’ key and hold it again. Just like downdashing, spikejumping works only if you’re not rising.
+When you’re in the air and don’t have any aircharges left (it’s what you use up when you dash or jump in the air), land on a slope while holding ‘down’ and ‘jump’. If you used your aircharge on an airjump make sure to also release the ‘jump’ key and hold it again. Spikejumping works only if you’re not rising.
 
 You can control the direction in which you’re going to jump off by holding ‘left’ or ‘right’ or not holding any of them.
 
@@ -588,7 +596,7 @@ Combat Tutorial doesn’t mention that using the super attack gives back your ai
 
 ![92.webp](Resources/92.webp)
 
-Square checks for enemies, circle for dust and dustblocks.
+Square checks for enemies, circle for dust and dustblocks. 
 
 There has to be a line of sight between your character and dust for super to clear it.
 
@@ -596,7 +604,7 @@ There has to be a line of sight between your character and dust for super to cle
 
 <br /> 
 
-<a name="super-attack"/>
+<a name="buffering"/>
 
 ### Buffering ###
 
@@ -609,11 +617,9 @@ In Dustforce you can buffer any action (but not in any situation) not related to
 * Pressing the key for a heavy attack while still doing a light attack.
 * Spikejump is a buffered slopejump (unless you press ‘jump’ on the very frame you land on the slope).
 
-Buffering inputs is one of the key aspects of Dustforce as you often find yourself in situations where you have to wait for one action to finish before starting another. It ensures that the next action is going to start immediately, without losing precious time.
+Buffering inputs is also, or maybe even especially, one of the key aspects of Dustforce as you get past the beginner phase. You often find yourself in situations where you have to wait for one action to finish before starting another. Buffering some inputs ensures that the next action is going to start immediately, without losing precious time.
 
-This doesn’t mean you should buffer every input. And remember that when an action requires only a single press to be buffered, once that input is recognized by the game, you can't cancel the buffered action in any way.
-
-With time and by watching better players you should learn how to make good use of it.
+And remember that when an action requires only a single press to be buffered, once that input is recognized by the game, you can't cancel the buffered action in any way. This coupled with the fact that many actions aren't immediate could explain potential situations where you can't get your character to do what you want.
 
 - - - -
 
@@ -669,7 +675,7 @@ It’s an issue which really can only occur for keyboard players. Sometimes, for
 
 ### Dashjump ###
 
-(Not to be confused with the dash-jump mention in the Advanced Tutorial)
+(Not to be confused with the dash-jump mentioned in the Advanced Tutorial)
 
 Once again here’s Dustforce Helpdesk video explaining all ins and outs of dashjumping - https://www.youtube.com/watch?v=ElrxwX0gtOg
 
@@ -733,7 +739,7 @@ You can stand on the corners of spiked tiles.
 
 ![93.webp](Resources/93.webp)
 
-It’s possible to even jump and boost off of jorfs. They’re extremely precise but sometimes they just happen on accident.
+It’s possible to jump and even boost off of jorfs. They’re extremely precise but sometimes they just happen on accident.
 
 - - - -
 
@@ -770,6 +776,7 @@ The direction your character is facing dictates what direction your attack or da
 You change your facing by:
 
 * Running the other way
+* Walldashing
 * Walljumping (only if not holding the direction towards the wall)
 * Corner boosting (the same rule as with walljumping applies) or just ceiling running
 * Doing 2 reverse light attacks or a backlight followed by a backheavy (on the ground or in the air)
@@ -835,6 +842,8 @@ Due to a programming mistake friction while going to the left is considerably mo
 ### Iteration order ###
 
 It is possible to clear all enemies and dust and get an A completion rank when finishing a map. It’s pretty complicated, so just know that it happens very rarely. But if it does happen try to do the final attack in a different position, because it might change the iteration order. If it doesn’t help, make sure you are indeed collecting all the dust and try asking people in the community.
+
+Also, if you clear the last enemy before getting all the dust, and then collect it by for example dropping onto it after you've lost control over your character, it won't count towards the completion. This has nothing to do with iteration order.
 
 \
 <a name="getting-better"/>
@@ -923,6 +932,6 @@ To reset ghosts you have to disable Replay Ghosts and enable it.
 
 I hope that what I've written here proves to be useful. Have fun dusting and see you on the leaderboards!
 
-Big thank you to Zaandaa for reading through the guide and suggesting some improvements, and indapop for his input on controller related parts.
+Thank you to Zaandaa, gonx, indapop, Alexspeedy and Skyhawk for suggesting various improvements to the guide.
 
 And finally, some clips in the guide feature custom maps or just fog triggers made by Linley, Leap, C, Giamma, Dustcreep and Alexspeedy.
