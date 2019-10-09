@@ -69,7 +69,7 @@
 
 ## Introduction ##
 
-This guide is made for those only starting or having just started their journey with Dustforce DX, however I expect even players with the Steam achievement to learn something new by going through it. Players thinking about, or maybe even set on focusing on climbing stock maps’ leaderboards in the long run should find it especially helpful. 
+This guide is made for players only beginning their journey with Dustforce DX as well as players already with the Steam achievement. It doesn't contain any level specifc help and instead focuses on explaining general mechanics and techniques. Players thinking about, or maybe even set on climbing stock maps’ leaderboards in the long run should find it especially helpful. 
 
 It provides information I wish I knew when I was learning the game myself, so it’s just my own perspective and input on improving your skills. I’m a mostly inactive Dustforce player with a little over 2000 hours of playtime, most of which was spent on playing custom maps, the rest on playing stock maps and making my own customs. I’ve had ideas popping into my head for a guide like this for a long time, in fact my very first custom map was an attempt at a simple tutorial level, which is now hidden on Atlas as it became obsolete with the release of this guide.
 
@@ -154,7 +154,7 @@ If all keys lit up for every combination then you’re good to go. If any weren�
 Here are relevant settings I recommend using:
 
 * Display → Overlay → Show Input Display (adjust size and color to your liking) - self-explanatory, works for replays as well.
-* Tools → Editor → Editor Anywhere - allows to enter editor mode at any moment with 'tab' key. It’s extremely useful as it allows you to practice levels from wherever you place the player spawn, but more on that later. Though in case you decide to try it out now just remember that **completing a level from start to finish while in editor mode makes your run invalidate.** If there’s a flag (or any other icon for that matter) in the top right corner your replay won’t validate. Simply exit the level to remove the flag icon.
+* Tools → Editor → Editor Anywhere - allows to enter editor mode at any moment with 'tab' key. It’s extremely useful as it allows you to practice levels from wherever you place the player spawn, but more on that later. Though in case you decide to try it out now just remember that **completing a level from start to finish while in editor mode makes your run invalidate.** If there’s a flag (or any other icon for that matter) in the top right corner your run won’t validate. Simply exit the level to remove the flag icon.
 
 - - - -
 
@@ -235,7 +235,6 @@ Here you can see me lose some speed when I land on each platform.
 
 And here even when I lose speed I’m back to running because I dash right after touching the ground.
 
-
 - - - -
 
 <br /> 
@@ -307,7 +306,6 @@ Here’s me walljumping as early as possible.
 
 And here’s how it looks like when the wall has spikes.
 
-
 You can walljump while holding any directions, although holding the direction towards the wall is going to affect your facing (see <a href="https://github.com/czyys/dustforceguide#facing">Facing</a> section below).
 
 Lastly, your speed after walljumping is always the same, it doesn’t matter if you’re holding the direction key away from the wall.
@@ -320,9 +318,9 @@ Lastly, your speed after walljumping is always the same, it doesn’t matter if 
 
 ### Walldash ###
 
-To perform a walldash you can’t be holding ‘down’ or the direction towards the wall. The magneting works exactly the same for walldashing. Interestingly you can cancel a walldash with a walljump even after you leave the wall but are still within magneting distance.
+To perform a walldash you can’t be holding ‘down’ or the direction towards the wall. If you're having troubles getting walldashes because of this it's usually not a bad idea to not hold any direction keys when starting a walldash. The magneting works exactly the same like with walljumping.
 
-Make sure to delay jumping after walldashing enough.
+Interestingly you can cancel a walldash with a walljump even after you leave the wall but are still within magneting distance. Make sure to delay jumping after walldashing enough.
 
 ![5.webp](Resources/5.webp)
 
@@ -366,14 +364,14 @@ And here’s another practice map - dustforce://installPlay/9257/GUIDE2
 
 It’s one of the core techniques of Dustforce and it refers to boosts started on a flat ground. Whether you’re even able to get a groundboost depends on the angle you hit the ground at. Without going into technical details, you have to make sure your horizontal speed is big enough compared to your falling, vertical speed.
 
-If the landing angle was good and your character is running faster, simply hold the forward direction key and press 'dash' to keep that speed (you can also still be holding 'down'). The earlier you press 'dash' after landing, the more speed you're going to keep. This applies to any kind of boosts started on the ground.
-
 To help you understand what I mean by not being able to get a ground boost check out this comparison:
 
 ![29.webp](Resources/29.webp)
 
 \
-In both clips I'm doing basically the same inputs, but I'm downdashing from a little bit higher in the second one. This means I'm accelerating for longer after downdashing, and I'm hitting the ground at a slightly too big of an angle for the boost to work. If you can't easily tell that I'm running faster in the left clip then compare where Dustman stops in both examples. 
+In both clips I'm doing basically the same inputs, but I'm downdashing from a little bit higher in the second one. This means my vertical speed keeps increasing after downdashing for longer, and as a result I'm hitting the ground at a slightly too big of an angle for the boost to work. If you can't easily tell that I'm running faster in the left clip then compare where Dustman stops in both examples. 
+
+If the landing angle was good and your character is running faster, simply hold the forward direction key and press 'dash' to keep that speed (you can also still be holding 'down'). The earlier you press 'dash' after landing, the more speed you're going to keep. This applies to any kind of boosts started on the ground.
  
 Here’s how you set up groundboosts with each character. It’s pretty much the same for Dustman and Dustgirl:
 
@@ -401,7 +399,7 @@ You can also of course get ground boosts simply by utilizing the geometry around
 ![12.webp](Resources/12.webp)
 
 \
-Setting up ground boosts is difficult for beginners because it usually requires quick 'jump' inputs and a reasonably well timed dash upon landing. It also takes time to get a feel for what horizontal speed you need depending on your height from which you downdash or simply fall. 
+Setting up ground boosts is difficult for beginners because it usually requires quick 'jump' inputs and a reasonably well timed dash after landing. It also takes time to get a feel for what horizontal speed you need depending on your height from which you downdash or simply fall. 
 
 - - - -
 
@@ -413,13 +411,15 @@ Setting up ground boosts is difficult for beginners because it usually requires 
 
 Increasing then keeping your speed after landing on a 45<sup>o</sup> angled ground is called slope boosting. As long as you’re not going backwards you don’t have to worry about the landing angle necessary for the boost to work.
 
-Downdash into a slope holding forward and 'down' and dash when you reach the ground. Make sure to hold ‘down’ until you leave the slope or you’re most likely going to slow down (this concerns especially slope boosts started on higher parts of long slopes).
+Downdash into a slope holding forward and 'down' and dash when you reach the ground.
 
 ![27.webp](Resources/27.webp)
 
 <br />
 
-It’s also worth noting that in situations where you can’t get a good slope boost, for example because there’s no way to gain much falling speed and your horizontal speed isn’t big, it’s better to simply slide down the slope.
+Make sure to hold ‘down’ until you leave the slope or you’re most likely going to slow down if the slope is long enough for a few dashes.
+
+It’s also worth noting that in situations where you can’t get a good slope boost, for example because there’s no way to gain much falling speed and your horizontal speed isn’t big, it’s better to simply slide down the slope (without pressing 'dash' while on the slope).
 
 Sliding down a slope has a relatively low maximum speed and it takes a while to reach it, that's why it’s rarely the optimal strat.
 
@@ -435,7 +435,7 @@ If you’ve noticed me chaining dashes together in the last ground boosting clip
 
 Without going into technical details, optimally dashes are inputted in a pattern of 12 and 13 frames intervals. Ideally you want to dash as soon as previous dash ends, this way you keep all of your speed. The bigger the break between dashing the more speed you lose, but if the break is too small you drop the dash entirely.
 
-If it’s just your beginnings with dash rhythm try to focus on making it consistent and not dropping any dashes rather than going for very good intervals. Delaying the dashes for a few frames doesn’t loose that much time if the boost isn’t long and especially when compared to missing a dash.
+If it’s just your beginnings with dash rhythm try to focus on making it consistent and not dropping any dashes rather than going for very good intervals. Delaying the dashes for a few frames doesn’t lose that much time if the boost isn’t long and especially when compared to missing a dash.
 
 Try this practice map - dustforce://installPlay/9258/GUIDE3
 
@@ -577,6 +577,8 @@ Changing vertical direction:
 As you can see redirecting light attacks is very difficult and it’s something only very good players utilize effectively. 
 
 You also have to keep these windows in mind when you start holding the opposite direction but don’t want to reverse your attack. This concerns heavy attacks in particular.
+
+You can't switch from backlights to forward light or heavy attacks when mashing the attacks key. Once you input a backlight you have to wait for its animation to finish (or cancel it early - see <a href="https://github.com/czyys/dustforceguide#canceling-recovery-animations-of-attacks">Canceling recovery animations of attacks</a>) to be able to do a forward attack.
 
 When you want to do a backheavy while moving forward in the air, it’s important to not hold the back direction for too long or you’re going to lose a big chunk of your speed. However if you still have an aircharge, you can dash, then backheavy. It should be much easier to keep your speed this way as dashing locks your momentum for a bit giving you time to input the back direction.
 
@@ -813,7 +815,7 @@ If you do a super while grabbing a wall and then release it before the attack is
 
 ### Time dilation ###
 
-Attacking slows down the physics of your character to ~70%. The timer keeps running normally and all enemies behave normally as well. Check this demonstration:
+Attacking slows down the physics of your character to ~70% for the duration of the attack's windup animation. The timer keeps running normally and all enemies behave normally as well. Check this demonstration:
 
 ![25.webp](Resources/25.webp)
 
@@ -839,9 +841,9 @@ Due to a programming mistake friction while going to the left is considerably mo
 
 ### Iteration order ###
 
-It is possible to clear all enemies and dust and get an A completion rank when finishing a map. It’s pretty complicated, so just know that it happens very rarely. But if it does happen try to do the final attack in a different position, because it might change the iteration order. If it doesn’t help, make sure you are indeed collecting all the dust and try asking people in the community.
+It is possible to clear all enemies and dust and get an A completion rank when finishing a map. It’s pretty complicated, so just know that it happens so rarely you probably won't experience it during your first playthrough or maybe even ever. But if it does happen try to do the final attack in a different position, because it might change the iteration order. If it doesn’t help, make sure you are indeed collecting all the dust and try asking people in the community.
 
-Also, if you clear the last enemy before getting all the dust, and then collect it by for example dropping onto it after you've lost control over your character, it won't count towards the completion. This has nothing to do with iteration order.
+Also, if you clear the last enemy before getting all the dust, and then collect it by for example dropping onto it after you've lost control over your character, it won't count towards the completion. This is normal and it has nothing to do with iteration order.
 
 \
 <a name="getting-better"/>
@@ -852,7 +854,7 @@ Also, if you clear the last enemy before getting all the dust, and then collect 
 
 ### Improving ranks ###
 
-Completing the guide up until this point gives you more than enough knowledge to be able to get better effectively. If you’re interested in more than simply beating maps for SS completions, you should be ready to begin focusing on improving your ranks. 
+Completing the guide up to this point gives you more than enough knowledge to be able to get better effectively. If you’re interested in more than simply beating maps for SS completions, you should be ready to begin focusing on improving your ranks. 
 
 Many players look at their position only on the “Score” (or SS) leaderboards, but I want to bring into your attention the “Time” (or any%) leaderboards as well. The goal is still to beat the map as fast as possible, but here your Completion and Finesse ranks don’t matter (except for when two runs have the same time).
 
