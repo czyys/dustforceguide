@@ -436,7 +436,7 @@ Setting up ground boosts is difficult for beginners because it usually requires 
 
 ### Slope boosting ###
 
-Increasing then keeping your speed after landing on a 45<sup>o</sup> angled ground is called slope boosting. As long as you’re not going backwards you don’t have to worry about the landing angle necessary for the boost to work.
+Increasing your speed by landing on a 45<sup>o</sup> angled ground is called slope boosting. As long as you’re not going backwards you don’t have to worry about the landing angle necessary for the boost to work.
 
 Downdash into a slope holding forward and 'down' and dash when you reach the ground.
 
