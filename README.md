@@ -74,7 +74,7 @@
 
 This guide is made for players only beginning their journey with Dustforce DX as well as players already with the Steam achievement. It doesn't contain any level specifc help, as it would make it grow to enormous sizes, and instead focuses on explaining general mechanics and techniques. Players thinking about, or maybe even set on climbing stock maps’ leaderboards in the long run should find it especially helpful. 
 
-It provides information I wish I had an easy access to was learning the game myself, so it’s just my own perspective and input on improving your skills. I’m a mostly inactive Dustforce player with a little over 2000 hours of playtime, most of which was spent on playing custom maps, the rest on playing stock maps and making my own customs. I’ve had ideas popping into my head for a guide like this for a long time, in fact my very first custom map was an attempt at a simple tutorial level, which is now hidden on Atlas as it became obsolete with the release of this guide.
+It provides information I wish I had an easy access to when I was learning the game myself, so it’s just my own perspective and input on improving your skills. I’m a mostly inactive Dustforce player with a little over 2000 hours of playtime, most of which was spent on playing custom maps, the rest on playing stock maps and making my own customs. I’ve had ideas popping into my head for a guide like this for a long time, in fact my very first custom map was an attempt at a simple tutorial level, which is now hidden on Atlas as it became obsolete with the release of this guide.
 
 \
 <a name="before-you-begin"/>
@@ -562,7 +562,7 @@ Even though it’s called “Spikejump” it works the same way on slopes withou
 
 ### Zetta slopes in Zetta Difficult ###
 
-I'm doing one exception to the rule of not including any level specific help in this case, as vast majority of players going through Zetta Difficult fall victim to what essentially is a bad level design.
+I'm making one exception to the rule of not including any level specific help in this case, as vast majority of players going through Zetta Difficult fall victim to what essentially is a bad level design.
 
 It concerns some of the sloped and slanted ceilings where developers put dust right at their beginning which makes it very easy to miss if you dash after getting the slope boost. Even though you're glued to the ceiling while dashing you're not actually collecting any dust until after the dash is over. This might cause you to skip some of the earlier dust, like in the clip below.
 
@@ -574,7 +574,8 @@ For sloped ceilings the easiest solution is to simply not dash after landing a g
 
 ![32.webp](Resources/32.webp)
 
-\
+<br />
+
 * Stopping to clear that dust with an attack, and then setting up a boost with a high jump, like in the replay here - https://dustkid.com/replay/-8403082 (click "Watch Replay" or just find it in-game if you don't use dustmod)
 
 I recommend giving the first option at least a fair try even if you think the other one might be easier.
