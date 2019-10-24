@@ -292,6 +292,8 @@ If sometimes after jumping off a ledge you don’t seem to be able to double-jum
 
 - - - -
 
+<br />
+
 <a name="neutral-jump"/>
 
 ### Neutral jump ###
@@ -582,7 +584,7 @@ I recommend giving the first option at least a fair try even if you think the ot
 
 This section is much easier if you can do maplers and dashjumps (both covered in the "More advanced stuff" part of the guide).
 
-If you can't tell mid-run whether you've gotten all the dust so far, you could try watching some SS replay and making note of what your combo count should be at certain spots where you're free enough to look at the meter at the bottom left.
+If you can't tell mid-run whether you've gotten all the dust so far, you could try watching some SS replay and making note of what your combo count should be at certain spots where you're free enough to look at the meter in the bottom left.
 
 \
 <a name="combat"/>
@@ -979,7 +981,7 @@ To reset ghosts you have to disable Replay Ghosts and enable it.
 * https://imgur.com/a/jtzG0 - Dustforce Attack Hitbox Sizes and Positions. Although don’t trust the final image as it shows some of the hitboxes incorrectly.
 * https://imgur.com/a/mF3HC - Names community has given to each enemy.
 * https://www.reddit.com/r/dustforce/ - Dustforce reddit
-* https://discordapp.com/invite/0SkxtG7ddS6n2BCW - Invitation link for Dustforce Discord server
+* https://discordapp.com/invite/0SkxtG7ddS6n2BCW - Invitation link to Dustforce Discord server
 
 - - - -
 
