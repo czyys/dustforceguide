@@ -36,7 +36,7 @@
 	* [Ledge cancels and Mantles](#ledge-cancels-and-mantles)
 	* [Slopejump](#slopejump)
 	* [Spikejump](#spikejump)
-	* [Zetta slides in Zetta Difficult](#zetta-slides)
+	* [Zetta slides in Zetta Difficult](#zetta-slides-in-zetta-difficult)
 * [Combat](#combat)
 	* [Clearing dust through walls](#clearing-dust-through-walls)
 	* [Dust spread](#dust-spread)
@@ -558,7 +558,7 @@ Even though it’s called “Spikejump” it works the same way on slopes withou
 
 <br /> 
 
-<a name="zetta-slides"/>
+<a name="zetta-slides-in-zetta-difficult"/>
 
 ### Zetta slides in Zetta Difficult ###
 
