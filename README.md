@@ -22,6 +22,8 @@
 	* [How dashing works](#how-dashing-works)
 	* [Downdash](#downdash)
 	* [Jumping](#jumping)
+	* [Neutral jump](#neutral-jump)
+	* [Wallrun](#wallrun)
 	* [Walljump](#walljump)
 	* [Walldash](#walldash)
 	* [Corner boosts](#corner-boosts)
@@ -34,6 +36,7 @@
 	* [Ledge cancels and Mantles](#ledge-cancels-and-mantles)
 	* [Slopejump](#slopejump)
 	* [Spikejump](#spikejump)
+	* [Zetta slopes in Zetta Difficult](#zetta-slopes)
 * [Combat](#combat)
 	* [Clearing dust through walls](#clearing-dust-through-walls)
 	* [Dust spread](#dust-spread)
@@ -69,9 +72,9 @@
 
 ## Introduction ##
 
-This guide is made for players only beginning their journey with Dustforce DX as well as players already with the Steam achievement. It doesn't contain any level specifc help and instead focuses on explaining general mechanics and techniques. Players thinking about, or maybe even set on climbing stock maps’ leaderboards in the long run should find it especially helpful. 
+This guide is made for players only beginning their journey with Dustforce DX as well as players already with the Steam achievement. It doesn't contain any level specifc help, as it would make it grow to enormous sizes, and instead focuses on explaining general mechanics and techniques. Players thinking about, or maybe even set on climbing stock maps’ leaderboards in the long run should find it especially helpful. 
 
-It provides information I wish I knew when I was learning the game myself, so it’s just my own perspective and input on improving your skills. I’m a mostly inactive Dustforce player with a little over 2000 hours of playtime, most of which was spent on playing custom maps, the rest on playing stock maps and making my own customs. I’ve had ideas popping into my head for a guide like this for a long time, in fact my very first custom map was an attempt at a simple tutorial level, which is now hidden on Atlas as it became obsolete with the release of this guide.
+It provides information I wish I had an easy access to was learning the game myself, so it’s just my own perspective and input on improving your skills. I’m a mostly inactive Dustforce player with a little over 2000 hours of playtime, most of which was spent on playing custom maps, the rest on playing stock maps and making my own customs. I’ve had ideas popping into my head for a guide like this for a long time, in fact my very first custom map was an attempt at a simple tutorial level, which is now hidden on Atlas as it became obsolete with the release of this guide.
 
 \
 <a name="before-you-begin"/>
@@ -289,6 +292,30 @@ If sometimes after jumping off a ledge you don’t seem to be able to double-jum
 
 - - - -
 
+<a name="neutral-jump"/>
+
+### Neutral jump ###
+
+If you slow down your character to a very low speed and press 'jump' without holding 'left' or 'right' you're going to do what's called a neutral jump. Neutral jump is like any other air jump, except that it sets your horizontal speed to exactly 0.
+
+It has more uses in optimizations and advanced strats done by high level players, but even newer players can use it to easily set up drops like in the clip below.
+
+![30.webp](Resources/30.webp)
+
+- - - -
+
+<br /> 
+
+<a name="wallrun"/>
+
+### Wallrun ###
+
+As you know from the Beginner Tutorial, to start a wallrun you need to hold 'up' and push against the wall. This also includes walls slanted towards the player, even though it may not feel intuitive.
+
+![33.webp](Resources/33.webp)
+
+- - - -
+
 <br /> 
 
 <a name="walljump"/>
@@ -481,6 +508,8 @@ Try it in this practice map - dustforce://installPlay/9259/GUIDE4
 
 Only 2 frames of jumpsquat, normally it takes 8.
 
+Note that shortening the duration of jumpsquat means you get less time for a potential short hop, since holding the 'jump' key while its animation ends makes you high jump.
+
 - - - -
 
 <br /> 
@@ -524,6 +553,33 @@ You can control the direction in which you’re going to jump off by holding ‘
 Even though it’s called “Spikejump” it works the same way on slopes without spikes.
 
 ![16.webp](Resources/16.webp)
+
+- - - -
+
+<br /> 
+
+<a name="zetta-slopes"/>
+
+### Zetta slopes in Zetta Difficult ###
+
+I'm doing one exception to the rule of not including any level specific help in this case, as vast majority of players going through Zetta Difficult fall victim to what essentially is a bad level design.
+
+It concerns some of the sloped and slanted ceilings where developers put dust right at their beginning which makes it very easy to miss if you dash after getting the slope boost. Even though you're glued to the ceiling while dashing you're not actually collecting any dust until after the dash is over. This might cause you to skip some of the earlier dust, like in the clip below.
+
+![31.webp](Resources/31.webp)
+
+
+For sloped ceiling the easiest solution is to simply not dash after landing a good enough slope boost. In case of the one slanted ceiling though there are 2 ways of dealing with it:
+* landing and dashing near the top of the one-tile slope which makes the dash end in time to still get the dust
+
+![32.webp](Resources/32.webp)
+
+
+* stopping to clear that dust with an attack, and then setting up a boost with a high jump, like in the replay here - https://dustkid.com/replay/-8403082 (click "Watch Replay" or just find it in-game if you don't use dustmod)
+
+I recommend giving the first option at least a fair try even if you think the other one might be easier.
+
+If you can't tell mid-run whether you've gotten all the dust so far, you could try watching some SS replay and making note of what your combo count should be at certain spots where you're free enough to look at the meter at the bottom left.
 
 \
 <a name="combat"/>
@@ -578,7 +634,7 @@ As you can see redirecting light attacks is very difficult and it’s something 
 
 You also have to keep these windows in mind when you start holding the opposite direction but don’t want to reverse your attack. This concerns heavy attacks in particular.
 
-You can't switch from backlights to forward light or heavy attacks when mashing the attacks key. Once you input a backlight you have to wait for its animation to finish (or cancel it early - see <a href="https://github.com/czyys/dustforceguide#canceling-recovery-animations-of-attacks">Canceling recovery animations of attacks</a>) to be able to do a forward attack.
+You can't switch from backlights to forward light or heavy attacks when mashing the attacks. Once you input a backlight you have to wait for its animation to finish (or cancel it early - see <a href="https://github.com/czyys/dustforceguide#canceling-recovery-animations-of-attacks">Canceling recovery animations of attacks</a>) to be able to do a forward attack.
 
 When you want to do a backheavy while moving forward in the air, it’s important to not hold the back direction for too long or you’re going to lose a big chunk of your speed. However if you still have an aircharge, you can dash, then backheavy. It should be much easier to keep your speed this way as dashing locks your momentum for a bit giving you time to input the back direction.
 
@@ -631,7 +687,7 @@ And remember that when an action requires only a single press to be buffered, on
 
 When you start an attack it goes into its windup animation. After it finishes an enemy gets hit if its hurtbox and hitbox of the attack overlap during that one frame. Then your attack enters the recovery phase during which you can’t start another attack. 
 
-That’s why you often want to cancel that animation and it’s possible to do it with:
+That’s why you often want to cancel the recovery animation and it’s possible to do it with:
 * a jump, which can be buffered
 * a dash, which has to be timed
 * or by grabbing a wall/ceiling, which requires simply holding the right directions.
@@ -650,7 +706,7 @@ Dash → Immediately do a heavy attack → Wait for the windup to finish → Pre
 ![19.webp](Resources/19.webp)
 
 \
-It’s a very useful technique for dealing with enemies which take more than one heavy attack to clear. However when timing the dash presses you have to take into account hitstop which occurs on each connecting hit (check <a href="https://github.com/czyys/dustforceguide#hitstop">Hitstop</a> section below for more information).
+It’s a very useful technique for dealing with enemies which take more than one heavy attack to clear. However when timing the dash presses you have to additionally delay them by the duration of hitstop which occurs on each connecting hit (check <a href="https://github.com/czyys/dustforceguide#hitstop">Hitstop</a> section below for more information).
 
 \
 <a name="more-advanced-stuff"/>
@@ -829,7 +885,7 @@ You can see how long it takes Dustman to fall to the ground without and with som
 
 ### Left friction ###
 
-Due to a programming mistake friction while going to the left is considerably more harsh than when going to the right. Check how long it takes Dustman to reach each set of white tiles:
+Due to a programming mistake friction while going to the left in the air is considerably more harsh than when going to the right. Check how long it takes Dustman to reach each set of white tiles:
 
 ![26.webp](Resources/26.webp)
 
