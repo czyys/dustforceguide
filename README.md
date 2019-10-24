@@ -36,7 +36,7 @@
 	* [Ledge cancels and Mantles](#ledge-cancels-and-mantles)
 	* [Slopejump](#slopejump)
 	* [Spikejump](#spikejump)
-	* [Zetta slopes in Zetta Difficult](#zetta-slopes)
+	* [Zetta slides in Zetta Difficult](#zetta-slides)
 * [Combat](#combat)
 	* [Clearing dust through walls](#clearing-dust-through-walls)
 	* [Dust spread](#dust-spread)
@@ -558,13 +558,13 @@ Even though it’s called “Spikejump” it works the same way on slopes withou
 
 <br /> 
 
-<a name="zetta-slopes"/>
+<a name="zetta-slides"/>
 
-### Zetta slopes in Zetta Difficult ###
+### Zetta slides in Zetta Difficult ###
 
 I'm making one exception to the rule of not including any level specific help in this case, as vast majority of players going through Zetta Difficult fall victim to what essentially is a bad level design.
 
-It concerns some of the sloped and slanted ceilings where developers put dust right at their beginning which makes it very easy to miss if you dash after getting the slope boost. Even though you're glued to the ceiling while dashing you're not actually collecting any dust until after the dash is over. This might cause you to skip some of the earlier dust, like in the clip below.
+It concerns some of the sloped and slanted ceilings where developers put dust right at their beginning, which makes it very easy to miss when you dash after getting the slope boost. Even though you're glued to the ceiling while dashing, you're not actually collecting any dust until after the dash is over. This might cause you to skip some of the earlier dust, like in the clip below.
 
 ![31.webp](Resources/31.webp)
 
@@ -579,6 +579,8 @@ For sloped ceilings the easiest solution is to simply not dash after landing a g
 * Stopping to clear that dust with an attack, and then setting up a boost with a high jump, like in the replay here - https://dustkid.com/replay/-8403082 (click "Watch Replay" or just find it in-game if you don't use dustmod)
 
 I recommend giving the first option at least a fair try even if you think the other one might be easier.
+
+This section is much easier if you can do maplers and dashjumps (both covered in the "More advanced stuff" part of the guide).
 
 If you can't tell mid-run whether you've gotten all the dust so far, you could try watching some SS replay and making note of what your combo count should be at certain spots where you're free enough to look at the meter at the bottom left.
 
