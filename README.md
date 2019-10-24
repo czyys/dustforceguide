@@ -568,14 +568,14 @@ It concerns some of the sloped and slanted ceilings where developers put dust ri
 
 ![31.webp](Resources/31.webp)
 
-
-For sloped ceiling the easiest solution is to simply not dash after landing a good enough slope boost. In case of the one slanted ceiling though there are 2 ways of dealing with it:
-* landing and dashing near the top of the one-tile slope which makes the dash end in time to still get the dust
+\
+For sloped ceilings the easiest solution is to simply not dash after landing a good enough slope boost. In case of the one slanted ceiling though there are 2 ways of dealing with it:
+* Landing and dashing near the top of the one-tile slope which makes the dash end in time to still get the dust
 
 ![32.webp](Resources/32.webp)
 
-
-* stopping to clear that dust with an attack, and then setting up a boost with a high jump, like in the replay here - https://dustkid.com/replay/-8403082 (click "Watch Replay" or just find it in-game if you don't use dustmod)
+\
+* Stopping to clear that dust with an attack, and then setting up a boost with a high jump, like in the replay here - https://dustkid.com/replay/-8403082 (click "Watch Replay" or just find it in-game if you don't use dustmod)
 
 I recommend giving the first option at least a fair try even if you think the other one might be easier.
 
