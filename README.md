@@ -44,6 +44,7 @@
 	* [Super attack](#super-attack)
 	* [Buffering](#buffering)
 	* [Canceling recovery animations of attacks](#canceling-recovery-animations-of-attacks)
+	* [Spring blobs](#spring-blobs)
 * [More advanced stuff](#more-advanced-stuff)
 	* [Holding 'left' and 'right' at the same time](#holding-left-and-right-at-the-same-time)
 	* [Dashjump](#dashjump)
@@ -157,7 +158,7 @@ If all keys lit up for every combination then you’re good to go. If any weren�
 Here are relevant settings I recommend using:
 
 * Display → Overlay → Show Input Display (adjust size and color to your liking) - self-explanatory, works for replays as well.
-* Tools → Editor → Editor Anywhere - allows to enter editor mode at any moment with 'tab' key. It’s extremely useful as it allows you to practice levels from wherever you place the player spawn, but more on that later. Though in case you decide to try it out now just remember that **completing a level from start to finish while in editor mode makes your run invalidate.** If there’s a flag (or any other icon for that matter) in the top right corner your run won’t validate. Simply exit the level to remove the flag icon.
+* Tools → Editor → Editor Anywhere - allows to enter editor mode at any moment with 'tab' key. It’s extremely useful as it allows you to practice levels from wherever you place the player spawn. Just remember that **completing a level from start to finish while in editor mode makes your run invalidate.** If there’s a flag (or any other icon for that matter) in the top right corner your run won’t validate. Simply exit the level to remove the flag icon.
 
 - - - -
 
@@ -216,6 +217,20 @@ If you ever find yourself in a situation where you can’t perform some simple t
 Even though this guide includes detailed explanations don't expect to be able to do most of the techniques immediately. It is going to require practice.
 
 But getting better will feel satisfying as Dustforce doesn’t include any rng elements affecting gameplay.
+
+- - - -
+
+<br /> 
+
+<a name="where-to-practice"/>
+
+### Where to practice ###
+
+In general if there's anything from stock maps you need to practice, be it controlling your movement and attacks while in the air in Tower, or dealing fast with Slime Golems, or boosting in Downhill, I believe it's best to practice using only maps from which those sections come from. For example, if you want to practice cleaning the Big Totem in Firefly Forest fast then just play Firefly Forest and not any custom (player-made) maps replicating this scenario.
+
+Usually the only advantage practice maps have is including only the part you want to practice, but Editor Anywhere feature of Dustmod allows to do the same and much more. I highly recommend getting accustomed to using it (you can read how to use it here - <a href="https://github.com/czyys/dustforceguide#using-editor-anywhere">Using editor anywhere</a>).
+
+Practice maps used in this guide (among a few others people have made over the years) are the exception because they focus on making sure you're going to understand core techniques and mechanics of Dustforce.
 
 \
 <a name="movement"/>
@@ -712,6 +727,23 @@ Dash → Immediately do a heavy attack → Wait for the windup to finish → Pre
 
 \
 It’s a very useful technique for dealing with enemies which take more than one heavy attack to clear. However when timing the dash presses you have to additionally delay them by the duration of hitstop which occurs on each connecting hit (check <a href="https://github.com/czyys/dustforceguide#hitstop">Hitstop</a> section below for more information).
+
+- - - -
+
+<br /> 
+
+<a name="spring-blobs"/>
+
+### Spring blobs ###
+
+It's difficult to realize there is a fast and easy way of cleaning this enemy, and spring blobs can be frustrating when you're trying to deal with them the same way as with the other enemies.
+
+What you want to do is to expose the part connecting the blob to the surface with one light attack and cut it with another light attack perpendicular to the stretched out blob. For example uplight -> sidelight or sidelight -> downlight for spring blobs on the ground.
+
+![34.webp](Resources/34.webp)
+
+\
+Positioning is important, make sure the second light attack hits the spring.
 
 \
 <a name="more-advanced-stuff"/>
