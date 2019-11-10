@@ -231,7 +231,7 @@ In general if there's anything from stock maps you need to practice, be it contr
 
 Usually the only advantage practice maps have is including only the part you want to practice, but "Editor Anywhere" feature of Dustmod allows to do the same and much more. I highly recommend getting accustomed to using it (you can read how to use it here - <a href="https://github.com/czyys/dustforceguide#using-editor-anywhere">Using editor anywhere</a>).
 
-Practice maps used in this guide (among a few others people have made over the years) are the exception because they focus on making sure you're going to understand core techniques and mechanics of Dustforce.
+Practice maps included in this guide (among a few others people have made over the years) are the exception because they focus on making sure you're going to understand core techniques and mechanics of Dustforce.
 
 \
 <a name="movement"/>
@@ -739,12 +739,12 @@ It’s a very useful technique for dealing with enemies which take more than one
 
 It's difficult to realize there is a fast and easy way of cleaning this enemy, and spring blobs can be frustrating when you're trying to deal with them the same way as with the other enemies.
 
-What you want to do is to expose the part connecting the blob to the surface with one light attack and cut it with another light attack perpendicular to the stretched out blob. For example uplight -> sidelight or sidelight -> downlight for spring blobs on the ground.
+What you want to do is to expose the part connecting the blob to the surface with one light attack and cut it with another light attack perpendicular to the stretched out blob. For example uplight -> sidelight or sidelight -> downlight for spring blobs placed on the ground, or sidelight -> uplight when they're on the ceiling.
 
 ![34.webp](Resources/34.webp)
 
 \
-Positioning is important, make sure the second light attack hits the spring.
+Positioning is important, make sure the second light attack hits the spring part.
 
 \
 <a name="more-advanced-stuff"/>
