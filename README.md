@@ -17,6 +17,7 @@
 	* [Basics](#basics)
 	* [Characters and their differences](#characters-and-their-differences)
 	* [General mindset](#general-mindset)
+	* [Where to practice](#where-to-practice)
 * [Movement](#movement)
 	* [Dash to move](#dash-to-move)
 	* [How dashing works](#how-dashing-works)
@@ -228,7 +229,7 @@ But getting better will feel satisfying as Dustforce doesn’t include any rng e
 
 In general if there's anything from stock maps you need to practice, be it controlling your movement and attacks while in the air in Tower, or dealing fast with Slime Golems, or boosting in Downhill, I believe it's best to practice using only maps from which those sections come from. For example, if you want to practice cleaning the Big Totem in Firefly Forest fast then just play Firefly Forest and not any custom (player-made) maps replicating this scenario.
 
-Usually the only advantage practice maps have is including only the part you want to practice, but Editor Anywhere feature of Dustmod allows to do the same and much more. I highly recommend getting accustomed to using it (you can read how to use it here - <a href="https://github.com/czyys/dustforceguide#using-editor-anywhere">Using editor anywhere</a>).
+Usually the only advantage practice maps have is including only the part you want to practice, but "Editor Anywhere" feature of Dustmod allows to do the same and much more. I highly recommend getting accustomed to using it (you can read how to use it here - <a href="https://github.com/czyys/dustforceguide#using-editor-anywhere">Using editor anywhere</a>).
 
 Practice maps used in this guide (among a few others people have made over the years) are the exception because they focus on making sure you're going to understand core techniques and mechanics of Dustforce.
 
