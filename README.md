@@ -456,15 +456,15 @@ Setting up ground boosts is difficult for beginners because it usually requires 
 
 Increasing your speed by landing on a 45<sup>o</sup> angled ground is called slope boosting. As long as you’re not going backwards you don’t have to worry about the landing angle necessary for the boost to work.
 
-Downdash into a slope holding forward and 'down' and dash when you reach the ground.
+Downdash into a slope holding 'forward' and 'down' and dash when you reach the ground.
 
 ![27.webp](Resources/27.webp)
 
 <br />
 
-Make sure to hold ‘down’ until you leave the slope or you’re most likely going to slow down if the slope is long enough for a few dashes.
+Make sure to hold ‘down’ until you leave the slope.
 
-It’s also worth noting that in situations where you can’t get a good slope boost, for example because there’s no way to gain much falling speed and your horizontal speed isn’t big, it’s better to simply slide down the slope (without pressing 'dash' while on the slope).
+It’s also worth noting that in situations where you can’t get a good slope boost, for example because there’s no way to gain much falling speed and your horizontal speed isn’t big, it’s better to simply slide down the slope (not pressing 'dash' while on the slope).
 
 Sliding down a slope has a relatively low maximum speed and it takes a while to reach it, that's why it’s rarely the optimal strat.
 
@@ -937,7 +937,7 @@ Due to a programming mistake friction while going to the left in the air is cons
 
 It is possible to clear all enemies and dust and get an A completion rank when finishing a map. It’s pretty complicated, so just know that it happens so rarely you probably won't experience it during your first playthrough or maybe even ever. But if it does happen try to do the final attack in a different position, because it might change the iteration order. If it doesn’t help, make sure you are indeed collecting all the dust and try asking people in the community.
 
-Also, if you clear the last enemy before getting all the dust, and then collect it by for example dropping onto it after you've lost control over your character, it won't count towards the completion. This is normal and it has nothing to do with iteration order.
+Also, if you clear the last enemy before getting all the dust, and then collect it by dropping onto it after you've lost control over your character, it won't count towards the completion. This is normal and it has nothing to do with iteration order.
 
 \
 <a name="getting-better"/>
