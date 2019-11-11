@@ -2,7 +2,7 @@
 
 *by czyys*
 
-![95.webp](Resources/95.webp)
+![95.png](Resources/95.png)
 
 <br />
 
