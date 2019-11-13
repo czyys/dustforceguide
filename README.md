@@ -17,7 +17,6 @@
 	* [Basics](#basics)
 	* [Characters and their differences](#characters-and-their-differences)
 	* [General mindset](#general-mindset)
-	* [Where to practice](#where-to-practice)
 * [Movement](#movement)
 	* [Dash to move](#dash-to-move)
 	* [How dashing works](#how-dashing-works)
@@ -159,7 +158,9 @@ If all keys lit up for every combination then you’re good to go. If any weren�
 Here are relevant settings I recommend using:
 
 * Display → Overlay → Show Input Display (adjust size and color to your liking) - self-explanatory, works for replays as well.
-* Tools → Editor → Editor Anywhere - allows to enter editor mode at any moment with 'tab' key. It’s extremely useful as it allows you to practice levels from wherever you place the player spawn. Just remember that **completing a level from start to finish while in editor mode makes your run invalidate.** If there’s a flag (or any other icon for that matter) in the top right corner your run won’t validate. Simply exit the level to remove the flag icon.
+* Tools → Editor → Editor Anywhere - allows to enter editor mode at any moment with 'tab' key. When used properly it’s even more useful than checkpoints as it allows you to practice levels from wherever you place the player spawn.
+
+If it's your first playthrough, then using "Editor Anywhere" during it is up to you, it can potentially spoil secrets in some of the maps. However I highly recommend getting accustomed to using it when you decide to focus on getting better ranks (<a href="https://github.com/czyys/dustforceguide#using-editor-anywhere">Using editor anywhere</a>).
 
 - - - -
 
@@ -218,20 +219,6 @@ If you ever find yourself in a situation where you can’t perform some simple t
 Even though this guide includes detailed explanations don't expect to be able to do most of the techniques immediately. It is going to require practice.
 
 But getting better will feel satisfying as Dustforce doesn’t include any rng elements affecting gameplay.
-
-- - - -
-
-<br /> 
-
-<a name="where-to-practice"/>
-
-### Where to practice ###
-
-In general if there's anything from stock maps you need to practice, be it controlling your movement and attacks while in the air in Tower, or dealing fast with Slime Golems, or boosting in Downhill, I believe it's best to practice using only maps from which those sections come from. For example, if you want to practice cleaning the Big Totem in Firefly Forest fast then just play Firefly Forest and not any custom (player-made) maps replicating this scenario.
-
-Usually the only advantage practice maps have is including only the part you want to practice, but "Editor Anywhere" feature of Dustmod allows to do the same and much more. I highly recommend getting accustomed to using it (you can read how to use it here - <a href="https://github.com/czyys/dustforceguide#using-editor-anywhere">Using editor anywhere</a>).
-
-Practice maps included in this guide (among a few others people have made over the years) are the exception because they focus on making sure you're going to understand core techniques and mechanics of Dustforce.
 
 \
 <a name="movement"/>
@@ -488,7 +475,7 @@ And if you want, play this custom map - dustforce://installPlay/4999/Slope-Boost
 
 For practicing extended dash rhythm you can consider enabling Boost Trainer which you can find in Dustmod → Tools. What also helps some players is a 275 BPM metronome playing in the background.
 
-Keeping the dash rhythm makes sense only when you're moving faster than your normal running speed. For example, there's no point in doing it right after you start running from a standstill, and in case of Dustworth it would even be detrimental.
+Keeping the dash rhythm makes sense only when you're moving faster than your normal running speed. For example, there's no point in doing it right after you dash from a standstill, and in case of Dustworth it would even be detrimental.
 
 Lastly, don't mash the 'dash' key instead of timing the presses. It's a very bad idea.
 
@@ -973,7 +960,9 @@ Better strats alone won’t be enough unless you execute them well, and for this
 
 Thankfully you don’t have to play the entire map if you need to practice just one section.
 
-If the “Editor Anywhere” option is enabled in Dustmod menu, you can press ‘tab’ to open the map you’re currently playing in editor mode. Click on the gargoyle icon to select the “Entities” tab, scroll it down to find the Player 1 spawn and place it where you want to start practicing from (you can pan the camera when holding ‘spacebar’). To change its facing simply press left or right arrow key. Then press ‘tab’ again to switch to playing mode.
+If the “Editor Anywhere” option is enabled in Dustmod menu, you can press ‘tab’ to open the map you’re currently playing in editor mode. Click on the gargoyle icon to select the “Entities” tab, scroll it down to find the Player 1 spawn and place it where you want to start practicing from (you can pan the camera when holding ‘spacebar’ and 'left mouse button', and zoom-in/out with 'mouse scroll' while holding 'spacebar'). To change its facing simply press left or right arrow key. Then press ‘tab’ again to switch to playing mode. You can switch between the two modes whenever you want.
+
+If you finish a map from a custom spawn point your run won't submit and completing a level from the original start point while in editor mode makes your run invalidate. You can tell when you're in the editor mode by the flag in the top right corner of the screen. Simply exit the map to quit the editor mode and the flag will be gone.
 
 - - - -
 
