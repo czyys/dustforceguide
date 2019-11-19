@@ -443,7 +443,7 @@ Setting up ground boosts is difficult for beginners because it usually requires 
 
 Increasing your speed by landing on a 45<sup>o</sup> angled ground is called slope boosting. As long as you’re not going backwards you don’t have to worry about the landing angle necessary for the boost to work.
 
-Downdash into a slope holding 'forward' and 'down' and dash when you reach the ground. The bigger the falling speed the bigger the boost is going to be*.
+Downdash into a slope holding 'forward' and 'down' and dash when you reach the ground. The bigger the falling speed the bigger the boost is going to be<sup>*</sup>.
 
 ![27.webp](Resources/27.webp)
 
@@ -455,7 +455,7 @@ It’s also worth noting that in situations where you can’t get a good slope b
 
 Sliding down a slope has a relatively low maximum speed and it takes a while to reach it, that's why it’s rarely the optimal strat.
 
-* - This is true for any kind of boost started on the ground, but you have to remember about the big enough horizontal speed requirement the other kinds of boosts have.
+<sup>*</sup> - This is true for any kind of boost started on the ground, but you have to remember about the big enough horizontal speed requirement the other kinds of boosts have.
 - - - -
 
 <br /> 
