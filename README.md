@@ -271,7 +271,7 @@ While we’re on the topic of dashing, it’s good to understand how exactly it 
 
 Stock tutorials fail to mention it but you can perform a technique called downdash in Dustforce. It gives you significant downwards speed if you didn’t have much of it to being with.
 
-There’s one condition for executing it - your character can’t be rising, or to be accurate, can’t be in a state called raise (more on that in the <a href="https://github.com/czyys/dustforceguide#ledge-cancels-and-mantles">Ledge cancels and Mantles</a> section). This also includes hitrise occurring after you hit most enemies (more on that later as well - <a href="https://github.com/czyys/dustforceguide#hitrise">Hitrise</a>). 
+It doesn't require any aircharges (it’s what you use up when you dash or jump in the air), but there is one condition for executing it - your character can’t be rising, or to be accurate, can’t be in a state called raise (more on that in the <a href="https://github.com/czyys/dustforceguide#ledge-cancels-and-mantles">Ledge cancels and Mantles</a> section). This also includes hitrise occurring after you hit most enemies (more on that later as well - <a href="https://github.com/czyys/dustforceguide#hitrise">Hitrise</a>). 
 
 When in the air simply hold ‘down’ and press ‘dash’ to perform a downdash.
 
@@ -443,7 +443,7 @@ Setting up ground boosts is difficult for beginners because it usually requires 
 
 Increasing your speed by landing on a 45<sup>o</sup> angled ground is called slope boosting. As long as you’re not going backwards you don’t have to worry about the landing angle necessary for the boost to work.
 
-Downdash into a slope holding 'forward' and 'down' and dash when you reach the ground.
+Downdash into a slope holding 'forward' and 'down' and dash when you reach the ground. The bigger the falling speed the bigger the boost is going to be*.
 
 ![27.webp](Resources/27.webp)
 
@@ -455,6 +455,7 @@ It’s also worth noting that in situations where you can’t get a good slope b
 
 Sliding down a slope has a relatively low maximum speed and it takes a while to reach it, that's why it’s rarely the optimal strat.
 
+* - This is true for any kind of boost started on the ground, but you have to remember about the big enough horizontal speed requirement the other kinds of boosts have.
 - - - -
 
 <br /> 
@@ -549,9 +550,9 @@ It’s used really only in top runs where every frame matters and jump squat was
 
 ### Spikejump ###
 
-Probably the most well known tech which obviously makes use of questionable way the game’s logic works on slopes. It allows you to immediately jump off of slopes (so only ground angled at 45<sup>o</sup>) even if they have spikes. And it’s fairly easy to perform. 
+Probably the most popular tech from those which make use of questionable way the game’s logic works in certain situations. It allows you to immediately jump off of slopes (so only ground angled at 45<sup>o</sup>) even if they have spikes. And it’s fairly easy to perform. 
 
-When you’re in the air and don’t have any aircharges left (it’s what you use up when you dash or jump in the air), land on a slope while holding ‘down’ and ‘jump’. If you used your aircharge on an airjump make sure to also release the ‘jump’ key and hold it again. Spikejumping works only if you’re not rising.
+When you’re in the air and don’t have any aircharges left, land on a slope while holding ‘down’ and ‘jump’. If you used your aircharge on an airjump make sure to also release the ‘jump’ key and hold it again. Spikejumping works only if you’re not rising.
 
 You can control the direction in which you’re going to jump off by holding ‘left’ or ‘right’ or not holding any of them.
 
@@ -746,7 +747,7 @@ This section covers tech, which for effective use requires being past the beginn
 
 ### Holding ‘left’ and ‘right' at the same time ###
 
-It’s an issue which really can only occur for keyboard players. Sometimes, for example when changing directions the game might misinterpret your intentions and make your character dash the wrong way. It happens when you’re holding both ‘left’ and ‘right’ which game treats as not holding any of them. Because of this your character is going to dash in the direction it was facing before you pressed ‘dash’. For situations like this make sure to release the other direction key early enough.
+It’s an issue which really can only occur for keyboard players. Sometimes, for example when changing horizontal directions the game might misinterpret your intentions and make your character dash the wrong way. It happens when you’re accidentally holding both ‘left’ and ‘right’ which game treats as not holding any of them. Because of this your character dashes in the direction it was facing originally. For situations like this make sure to release the other direction key early enough.
 
 - - - -
 
@@ -772,7 +773,7 @@ If you’re having trouble getting dashjumps make sure you’re not holding ‘d
 
 Mapler slide is a technique used to extend the time you ceiling run without friction or simply to get more distance from it. 
 
-You begin the ceiling run holding just ‘up’ then only after a short delay start holding the forward direction key.
+You begin the ceiling run holding just ‘up’, then only after a short delay start holding the forward direction key.
 
 Timing on the forward press depends on what you want to use mapler slide for: 
 * For keeping speed the optimal delay is 15 frames for non-virtual Dustman, and 10 frames for all the other characters. That’s why from non-virtual characters Dustman is usually the preferred one when maplers are involved. 
@@ -960,7 +961,7 @@ Better strats alone won’t be enough unless you execute them well, and for this
 
 Thankfully you don’t have to play the entire map if you need to practice just one section.
 
-If the “Editor Anywhere” option is enabled in Dustmod menu, you can press ‘tab’ to open the map you’re currently playing in editor mode. Click on the gargoyle icon to select the “Entities” tab, scroll it down to find the Player 1 spawn and place it where you want to start practicing from (you can pan the camera when holding ‘spacebar’ and 'left mouse button', and zoom-in/out with 'mouse scroll' while holding 'spacebar'). To change its facing simply press left or right arrow key. Then press ‘tab’ again to switch to playing mode. You can switch between the two modes whenever you want.
+If the “Editor Anywhere” option is enabled in Dustmod menu, you can press ‘tab’ to open the map you’re currently playing in editor mode. Click on the gargoyle icon to select the “Entities” tab, scroll it down to find the Player 1 spawn and place it where you want to start practicing from (you can pan the camera when holding ‘spacebar’ and 'left mouse button'). To change its facing simply press left or right arrow key. Then press ‘tab’ again to switch to playing mode. You can switch between the two modes whenever you want.
 
 If you finish a map from a custom spawn point your run won't submit and completing a level from the original start point while in editor mode makes your run invalidate. You can tell when you're in the editor mode by the flag in the top right corner of the screen. Simply exit the map to quit the editor mode and the flag will be gone.
 
@@ -988,7 +989,9 @@ You can also compare any two runs, not necessarily yours, by clicking the camera
 
 Dustmod includes a feature to watch replay ghosts in-game. Enable “Replay Ghosts” in Dustmod → Tools and start watching any replay. You don’t have to watch it in its entirety, exit the map once it has loaded in. Now select any other replay of this map you’d like to compare it to, or start playing yourself. 
 
-To reset ghosts you have to disable Replay Ghosts and enable it.
+To reset ghosts you have to disable "Replay Ghosts" and enable it.
+
+While active, "Replay Ghosts" invalidate any runs you finish. You can tell if they're active by the tools icon in the top right corner of the screen.
 
 - - - -
 
