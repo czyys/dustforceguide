@@ -18,6 +18,7 @@
 	* [Characters and their differences](#characters-and-their-differences)
 	* [General mindset](#general-mindset)
 * [Movement](#movement)
+	* [Surfaces](#surfaces)
 	* [Dash to move](#dash-to-move)
 	* [How dashing works](#how-dashing-works)
 	* [Downdash](#downdash)
@@ -225,10 +226,21 @@ But getting better will feel satisfying as Dustforce doesn’t include any rng e
 
 ## Movement ##
 
+<a name="surfaces"/>
+
+### Surfaces ###
+
+The angles at which surfaces are created in levels are set and this picture presents all possible variations (minus mirrored) with namings for nonhorizontal and nonvertical surfaces.
+
+![97.webp](Resources/97.webp)
+
+Just so it's easier for you to tell them apart, slants are angled at ~26<sup>o</sup> towards either x or y axis, slopes are angled at 45<sup>o</sup> towards both.
+
+- - - -
+
 <a name="dash-to-move"/>
 
 ### Dash to move ###
-
 
 Just like it was mentioned in the Beginner Tutorial level, dashing puts you at full running speed (or almost full in case of Dustworth) immediately. Dash whenever you want to start running. When you land on the ground some amount of ground friction is applied to your character, so dash after landing as well.
 
@@ -340,6 +352,13 @@ And here’s how it looks like when the wall has spikes.
 
 You can walljump while holding any directions, although holding the direction towards the wall is going to affect your facing (see <a href="https://github.com/czyys/dustforceguide#facing">Facing</a> section below).
 
+In a situation where you approach a slanted wall with dust and want to walljump without first wallrunning, if you wait until you're touching the wall and only then press 'jump', you're actually not going to collect the dust. You have to either already be holding 'jump' before you reach the wall or clear the dust with an attack.
+
+![35.webp](Resources/35.webp)
+
+\
+You're going to be expected to do this specific movement with dust on the wall very rarely, but now you know what to do when it does turn out to be intended or simply seems appropriate.
+
 Lastly, your speed after walljumping is always the same, it doesn’t matter if you’re holding the direction key away from the wall.
 
 - - - -
@@ -394,7 +413,7 @@ And here’s another practice map - dustforce://installPlay/9257/GUIDE2
 
 ### Ground boosting ###
 
-It’s one of the core techniques of Dustforce and it refers to boosts started on a flat ground. Whether you’re even able to get a groundboost depends on the angle you hit the ground at. Without going into technical details, you have to make sure your horizontal speed is big enough compared to your falling, vertical speed.
+It’s one of the core techniques of Dustforce and it refers to boosts started on a straight horizontal ground. Whether you’re even able to get a groundboost depends on the angle you hit the ground at. Without going into technical details, you have to make sure your horizontal speed is big enough compared to your falling, vertical speed.
 
 To help you understand what I mean by not being able to get a ground boost check out this comparison:
 
@@ -403,7 +422,9 @@ To help you understand what I mean by not being able to get a ground boost check
 \
 In both clips I'm doing basically the same inputs, but I'm downdashing from a little bit higher in the second one. This means my vertical speed keeps increasing after downdashing for longer, and as a result I'm hitting the ground at a slightly too big of an angle for the boost to work. If you can't easily tell that I'm running faster in the left clip then compare where Dustman stops in both examples. 
 
-If the landing angle was good and your character is running faster, simply hold the forward direction key and press 'dash' to keep that speed (you can also still be holding 'down'). The earlier you press 'dash' after landing, the more speed you're going to keep. This applies to any kind of boosts started on the ground.
+It's important to notice that dashing isn't what makes you boost, it never increases your speed. Landing on the ground at the correct angle with enough horizontal speed is what makes your character run faster, dashing is then used only to maintain that speed.
+
+If the landing angle was good and your character is running faster, simply continue holding the forward direction key and press 'dash' to keep that speed (you can also still be holding 'down'). The earlier you press 'dash' after landing, the more speed you're going to keep. This applies to any kind of boosts started on the ground.
  
 Here’s how you set up groundboosts with each character. It’s pretty much the same for Dustman and Dustgirl:
 
@@ -441,7 +462,7 @@ Setting up ground boosts is difficult for beginners because it usually requires 
 
 ### Slope boosting ###
 
-Increasing your speed by landing on a 45<sup>o</sup> angled ground is called slope boosting. As long as you’re not going backwards you don’t have to worry about the landing angle necessary for the boost to work.
+Increasing your speed by landing on sloped ground is called slope boosting. As long as you’re not going backwards you don’t have to worry about the landing angle necessary for the boost to work.
 
 Downdash into a slope holding 'forward' and 'down' and dash when you reach the ground. The bigger the falling speed the bigger the boost is going to be<sup>*</sup>.
 
@@ -488,7 +509,7 @@ Lastly, don't mash the 'dash' key instead of timing the presses. It's a very bad
 
 ### Slant boosting ###
 
-Ground angled at ~26<sup>o</sup> is referred to as a slant and usually you boost off of it while not having much height. For example downdashing directly from a 5 tiles high platform is too much for normal running speed. In the clip below I’m decreasing my height a bit first.
+To boost off of slants usually you can't have much height. For example downdashing directly from a 5 tiles high platform is too much for normal running speed. In the clip below I’m decreasing my height a bit first.
 
 ![13.webp](Resources/13.webp)
 
