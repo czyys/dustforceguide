@@ -66,7 +66,7 @@
 	* [Using editor anywhere](#using-editor-anywhere)
 	* [Comparing replays on dustkid.com](#comparing-replays-on-dustkid)
 	* [Replay ghosts](#replay-ghosts)
-	* [Other resources](#other-resources)
+* [Other resources](#other-resources)
 * [Closing words and credits](#closing-words-and-credits)
 
 \
@@ -855,7 +855,7 @@ It’s possible to jump and even boost off of jorfs. They’re extremely precise
 
 ### Spikestand ###
 
-It’s also possible to stand on the corner of slants. Spikestands are less precise to land than jorfs.
+It’s also possible to stand on the corner of slanted ground and wall. Spikestands are less precise to land than jorfs.
 
 ![94.webp](Resources/94.webp)
 
@@ -956,7 +956,7 @@ Also, if you clear the last enemy before getting all the dust, and then collect 
 
 ## Climbing the leaderboards ##
 
-A few tips and tools if you’re interested in more than simply beating maps for SS completions.
+A few tips and tools suggestions if you’re interested in more than simply beating maps for SS completions.
 
 I recommend focusing on getting better times only after you've spent some time with Dustforce.
 
