@@ -61,7 +61,7 @@
 	* [Time dilation](#time-dilation)
 	* [Left friction](#left-friction)
 	* [Iteration order](#iteration-order)
-* [Getting better](#getting-better)
+* [Climbing the leaderboards](#climbing-the-leaderboards)
 	* [Improving ranks](#improving-ranks)
 	* [Using editor anywhere](#using-editor-anywhere)
 	* [Comparing replays on dustkid.com](#comparing-replays-on-dustkid)
@@ -267,7 +267,7 @@ And here even when I lose speed I’m back to running because I dash right after
 While we’re on the topic of dashing, it’s good to understand how exactly it works:
 
 * Ground Dashes
-	* If your speed is below your normal running speed it immediately puts you at it and locks your momentum for 12/13 frames (There's 60 frames in a second).
+	* If your speed is below your normal running speed it immediately puts you at it and locks your momentum (so speed and direction you're moving in) for 12/13 frames (there's 60 frames in a second).
 	* The same applies if your speed is above it with one important difference - it locks your momentum at your current speed.
 	* You can cancel out of it by jumping, grabbing a wall or attacking.
 
@@ -286,7 +286,7 @@ While we’re on the topic of dashing, it’s good to understand how exactly it 
 
 Stock tutorials fail to mention it but you can perform a technique called downdash in Dustforce. It gives you significant downwards speed if you didn’t have much of it to being with.
 
-It doesn't require any aircharges (it’s what you use up when you dash or jump in the air), but there is one condition for executing it - your character can’t be rising, or to be accurate, can’t be in a state called raise (more on that in the <a href="https://github.com/czyys/dustforceguide#ledge-cancels-and-mantles">Ledge cancels and Mantles</a> section). This also includes hitrise occurring after you hit most enemies (more on that later as well - <a href="https://github.com/czyys/dustforceguide#hitrise">Hitrise</a>). 
+It doesn't require any aircharges (it’s what you use up when you dash or jump in the air), but you can't execute it while you're air dashing, the dash has to end first. The other condition for executing it is that your character can’t be rising, or to be accurate, can’t be in a state called raise (more on that in the <a href="https://github.com/czyys/dustforceguide#ledge-cancels-and-mantles">Ledge cancels and Mantles</a> section). This also includes hitrise occurring after you hit most enemies (more on that later as well - <a href="https://github.com/czyys/dustforceguide#hitrise">Hitrise</a>). 
 
 When in the air simply hold ‘down’ and press ‘dash’ to perform a downdash.
 
@@ -300,7 +300,7 @@ Once you downdash any additional downdashes don't give any extra speed, there's 
 
 ### Jumping ###
 
-If you’re not sure, for a normal ground jump there are only two kinds of it - low jump (also reffered to as short hop) and high jump. If you hold the ‘jump’ key for the entire duration of jump squat animation (which in a usual scenario lasts 8 frames) you’re going to do a high jump. Holding 'jump' any shorter will result in a low jump.
+There are only two kinds of ground jumps - low jump (also referred to as short hop) and high jump. If you hold the ‘jump’ key for the entire duration of jump squat animation (which in a usual scenario lasts 8 frames) you’re going to do a high jump. Holding 'jump' any shorter will result in a low jump.
 
 There is no height you can reach in between them by holding the ‘jump’ key shorter/longer like in some other games. And there is only one kind of airjump, holding 'jump' doesn't affect its height.
 
@@ -316,7 +316,7 @@ If sometimes after jumping off a ledge you don’t seem to be able to double-jum
 
 ### Neutral jump ###
 
-If you slow down your character to a very low speed and press 'jump' without holding 'left' or 'right' you're going to do what's called a neutral jump. Neutral jump is like any other air jump, except that it sets your horizontal speed to exactly 0.
+If you slow down your character to a very low speed in the air and press 'jump' without holding 'left' or 'right' you're going to do what's called a neutral jump. Neutral jump is like any other air jump, except that it sets your horizontal speed to exactly 0.
 
 It has more uses in optimizations and advanced strats done by high level players, but even newer players can use it to easily set up drops like in the clip below.
 
@@ -372,7 +372,7 @@ Lastly, your speed after walljumping is always the same, it doesn’t matter if 
 
 ### Walldash ###
 
-To perform a walldash you can’t be holding ‘down’ or the direction towards the wall. If you're having troubles getting walldashes because of this it's usually not a bad idea to not hold any direction keys when starting a walldash. The magneting works exactly the same like with walljumping.
+To perform a walldash you can’t be holding ‘down’ or the direction towards the wall. If you're having trouble getting walldashes because of this it's usually not a bad idea to not hold any direction keys when starting a walldash. The magneting works exactly the same like with walljumping.
 
 Interestingly you can cancel a walldash with a walljump even after you leave the wall but are still within magneting distance. Make sure to delay jumping after walldashing enough.
 
@@ -416,7 +416,7 @@ And here’s another practice map - dustforce://installPlay/9257/GUIDE2
 
 ### Ground boosting ###
 
-It’s one of the core techniques of Dustforce and it refers to boosts started on a straight horizontal ground. Whether you’re even able to get a groundboost depends on the angle you hit the ground at. Without going into technical details, you have to make sure your horizontal speed is big enough compared to your falling, vertical speed.
+It’s one of the core techniques of Dustforce and it refers to boosts started on a flat horizontal ground. Whether you’re even able to get a groundboost depends on the angle you hit the ground at. Without going into technical details, you have to make sure your horizontal speed is big enough compared to your falling, vertical speed.
 
 To help you understand what I mean by not being able to get a ground boost check out this comparison:
 
@@ -538,7 +538,7 @@ Try it in this practice map - dustforce://installPlay/9259/GUIDE4
 
 Only 2 frames of jumpsquat, normally it takes 8.
 
-Note that shortening the duration of jumpsquat means you get less time for a potential short hop, since holding the 'jump' key while its animation ends makes you high jump.
+Note that shortening the duration of jumpsquat means you get less time for a potential short hop, since holding the 'jump' key while its animation ends makes you highjump.
 
 - - - -
 
@@ -625,7 +625,7 @@ If you can't tell mid-run whether you've gotten all the dust so far, you could t
 
 In Dustforce you can hit enemies through walls, but with up and down attacks you can also clear dust through walls (ceilings and floors too for that matter). It’s extremely useful so always keep it in mind when figuring out strats for a map. 
 
-Play this practice map to test how it works - dustforce://installPlay/9260/GUIDE5
+Play this practice map to test how it works - dustforce://installPlay/9260/GUIDE5 (instructions on how to install maps from this guide are available <a href="https://github.com/czyys/dustforceguide#corner-boosts">here</a>)
 
 Try replaying it after clearing all the dust to test different attacks. You’re going to notice that for some geometry up and down attacks aren’t the best option.
 
@@ -639,7 +639,7 @@ Try replaying it after clearing all the dust to test different attacks. You’re
 
 As you know clearing enemies with heavy attacks makes them spread dust on surfaces without spikes. The only things affecting the dust spread are position of the enemy and direction of your attack. Position of your character doesn't matter.
 
-As a sidenote, sideheavies don't spread dust on flat and sloped ceilings.
+As a sidenote, sideheavies don't spread dust on horizontal and sloped ceilings.
 
 ![28.webp](Resources/28.webp)
 
@@ -651,7 +651,7 @@ As a sidenote, sideheavies don't spread dust on flat and sloped ceilings.
 
 ### Changing directions of attacks ###
 
-It’s possible to change the direction of your attack after you’ve initiated it but the new direction has to be inputted within a specific window. 
+It’s possible to change the direction of your attack after you’ve initiated it but the new direction has to be inputted within a specific time window. 
 
 Changing the direction from forward to back:
 
@@ -699,7 +699,7 @@ There has to be a line of sight between your character and dust for super to cle
 
 Buffering refers to pressing or holding down a key to start an action before the condition for its start have been met. Once they’re met the action begins immediately.
 
-In Dustforce you can buffer any action (but not in any situation) not related to dashing. Some examples:
+In Dustforce you can buffer any action (but not in any situation) not related to dashing, so it concerns both movement and combat. Some examples:
 
 * Holding down ‘jump’ while the windup animation of a heavy attack is still in progress. When it finishes you begin the jump.
 * Holding down ‘jump’ when out of aircharges and getting close to a wall. Once you’re close enough you start a walljump.
@@ -952,15 +952,19 @@ It is possible to clear all enemies and dust and get an A completion rank when f
 Also, if you clear the last enemy before getting all the dust, and then collect it by dropping onto it after you've lost control over your character, it won't count towards the completion. This is normal and it has nothing to do with iteration order.
 
 \
-<a name="getting-better"/>
+<a name="climbing-the-leaderboards"/>
 
-## Getting better ##
+## Climbing the leaderboards ##
+
+A few tips and tools if you’re interested in more than simply beating maps for SS completions.
+
+I recommend focusing on getting better times only after you've spent some time with Dustforce.
+
+<br />
 
 <a name="improving-ranks"/>
 
 ### Improving ranks ###
-
-Completing the guide up to this point gives you more than enough knowledge to be able to get better effectively. If you’re interested in more than simply beating maps for SS completions, you should be ready to begin focusing on improving your ranks. 
 
 Many players look at their position only on the “Score” (or SS) leaderboards, but I want to bring into your attention the “Time” (or any%) leaderboards as well. The goal is still to beat the map as fast as possible, but here your Completion and Finesse ranks don’t matter (except for when two runs have the same time).
 
@@ -971,7 +975,7 @@ The steps I suggest for improving your runs look like this:
 3. Check what rank it gives you and then watch a replay of somebody who is a bit higher on the leaderboard than you.
 4. See what they’re doing differently and where they could be saving time.
 5. Try to implement those strats into your run.
-6. Repeat steps 3-5 until you’re satisfied with your rank.
+6. Repeat steps 2-5 until you’re satisfied with your rank.
 
 Better strats alone won’t be enough unless you execute them well, and for this there’s no shortcut. You just have to practice and play the map over and over.
 
@@ -1017,13 +1021,10 @@ To reset ghosts you have to disable "Replay Ghosts" and enable it.
 
 While active, "Replay Ghosts" invalidate any runs you finish. You can tell if they're active by the tools icon in the top right corner of the screen.
 
-- - - -
-
-<br /> 
-
+\
 <a name="other-resources"/>
 
-### Other resources ###
+## Other resources ##
 
 * https://www.youtube.com/channel/UC4H4b4BwJJYmUo_iZwF3WCQ - Dustforce Helpdesk channel has one more video not mentioned here and they may upload something in the future.
 * https://www.dustforce.info/ - A Dustforce wiki. It’s still a work-in-progress but it already offers tons of information.
@@ -1032,13 +1033,10 @@ While active, "Replay Ghosts" invalidate any runs you finish. You can tell if th
 * https://www.reddit.com/r/dustforce/ - Dustforce reddit
 * https://discordapp.com/invite/0SkxtG7ddS6n2BCW - Invitation link to Dustforce Discord server
 
-- - - -
-
-<br /> 
-
+\
 <a name="closing-words-and-credits"/>
 
-### Closing words and credits ###
+## Closing words and credits ##
 
 I hope that what I've written here proves to be useful. Have fun dusting and see you on the leaderboards!
 
