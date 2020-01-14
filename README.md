@@ -196,7 +196,7 @@ By this point you should be at least somewhat familiar with Dustman (blue), as h
 
 Dustgirl (red) is very similar to him.
 
-Dustkid (purple) can triple-jump, although her jumps are smaller, and her attacks are much faster while also having shorter range.
+Dustkid (purple) can triple-jump, although her jumps are smaller, and her attacks are much faster while also having shorter reach.
 
 Dustworth (green) has the slowest, but largest attacks and also can jump heighest of all characters.
 
@@ -427,9 +427,9 @@ In both clips I'm doing basically the same inputs, but I'm downdashing from a li
 
 If the landing angle was good and your character is running faster, simply continue holding the forward direction key and press 'dash' to keep that speed (you can also still be holding 'down'). The earlier you press 'dash' after landing, the more speed you're going to keep. This applies to any kind of boosts started on the ground.
 
-It's important to notice that dashing isn't what makes you boost, it never increases your speed. Landing on the ground at the correct angle with enough horizontal speed is what makes your character run faster, dashing is then used only to maintain that speed.
+It's important to notice that dashing isn't what makes you start a ground boost, it never increases your speed. Landing on the ground at the correct angle with enough horizontal speed is what makes your character run faster, dashing is then used only to maintain that speed.
  
-Here’s how you set up groundboosts with each character. It’s pretty much the same for Dustman and Dustgirl:
+Here’s one way you set up groundboosts with each character. It’s pretty much the same for Dustman and Dustgirl:
 
 Dash → Lowjump quickly followed by Airjump → Downdash → Dash when you hit the ground.
 
@@ -701,7 +701,7 @@ Buffering refers to pressing or holding down a key to start an action before the
 
 In Dustforce you can buffer any action (but not in any situation) not related to dashing, so it concerns both movement and combat. Some examples:
 
-* Holding down ‘jump’ while the windup animation of a heavy attack is still in progress. When it finishes you begin the jump.
+* Holding down ‘jump’ while the windup animation of a heavy attack is still in progress. When it finishes the attack comes out and you begin the jump.
 * Holding down ‘jump’ when out of aircharges and getting close to a wall. Once you’re close enough you start a walljump.
 * Pressing the key for a heavy attack while still doing a light attack.
 * Spikejump is a buffered slopejump (unless you press ‘jump’ on the very frame you land on the slope).
@@ -885,7 +885,7 @@ You change your facing by:
 * Walldashing
 * Walljumping (only if not holding the direction towards the wall)
 * Corner boosting (the same rule as with walljumping applies) or just ceiling running
-* Doing 2 reverse light attacks or a backlight followed by a backheavy (on the ground or in the air)
+* Doing 2 quick backlights or a backlight followed by a backheavy (on the ground or in the air)
 
 ![22.webp](Resources/22.webp)
 
