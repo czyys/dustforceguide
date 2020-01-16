@@ -245,7 +245,7 @@ Just so it's easier for you to tell them apart, slants are angled at ~26<sup>o</
 
 ### Dash to move ###
 
-Just like it was mentioned in the Beginner Tutorial level, dashing puts you at full running speed (or almost full in case of Dustworth) immediately. Dash whenever you want to start running. When you land on the ground some amount of ground friction is applied to your character, so dash after landing as well.
+Just like it's mentioned in the Beginner Tutorial level, dashing puts you at normal running speed (or speed slightly lower than that in case of Dustworth) immediately. Dash whenever you want to start running. When you land on the ground some amount of ground friction is applied to your character, so dash after landing as well.
 
 ![1.webp](Resources/1.webp)
 
@@ -267,7 +267,7 @@ And here even when I lose speed I’m back to running because I dash right after
 While we’re on the topic of dashing, it’s good to understand how exactly it works:
 
 * Ground Dashes
-	* If your speed is below your normal running speed it immediately puts you at it and locks your momentum (so speed and direction you're moving in) for 12/13 frames (there's 60 frames in a second).
+	* If your speed is below your normal running speed it immediately puts you at it and locks your momentum (speed and direction you're moving in) for 12/13 frames (there's 60 frames in a second).
 	* The same applies if your speed is above it with one important difference - it locks your momentum at your current speed.
 	* You can cancel out of it by jumping, grabbing a wall or attacking.
 
@@ -286,7 +286,7 @@ While we’re on the topic of dashing, it’s good to understand how exactly it 
 
 Stock tutorials fail to mention it but you can perform a technique called downdash in Dustforce. It gives you significant downwards speed if you didn’t have much of it to being with.
 
-It doesn't require any aircharges (it’s what you use up when you dash or jump in the air), but you can't execute it while you're air dashing, the dash has to end first. The other condition for executing it is that your character can’t be rising, or to be accurate, can’t be in a state called raise (more on that in the <a href="https://github.com/czyys/dustforceguide#ledge-cancels-and-mantles">Ledge cancels and Mantles</a> section). This also includes hitrise occurring after you hit most enemies (more on that later as well - <a href="https://github.com/czyys/dustforceguide#hitrise">Hitrise</a>). 
+It doesn't require any aircharges (it’s what you use up when you dash or jump in the air), but you can't execute it while you're dashing, the dash has to end first. The other condition for executing it is that your character can’t be rising, or to be accurate, can’t be in a state called raise (more on that in the <a href="https://github.com/czyys/dustforceguide#ledge-cancels-and-mantles">Ledge cancels and Mantles</a> section). This also includes hitrise occurring after you hit most enemies (more on that later as well - <a href="https://github.com/czyys/dustforceguide#hitrise">Hitrise</a>). 
 
 When in the air simply hold ‘down’ and press ‘dash’ to perform a downdash.
 
@@ -302,7 +302,9 @@ Once you downdash any additional downdashes don't give any extra speed, there's 
 
 There are only two kinds of ground jumps - low jump (also referred to as short hop) and high jump. If you hold the ‘jump’ key for the entire duration of jump squat animation (which in a usual scenario lasts 8 frames) you’re going to do a high jump. Holding 'jump' any shorter will result in a low jump.
 
-There is no height you can reach in between them by holding the ‘jump’ key shorter/longer like in some other games. And there is only one kind of airjump, holding 'jump' doesn't affect its height.
+Air jump starts the moment you press 'jump', there's no squat animation.
+
+Holding 'jump' key after the jump starts (in case of ground jumps - after you leave the ground) doesn't affect its height in any way.
 
 If sometimes after jumping off a ledge you don’t seem to be able to double-jump, it’s because you pressed ‘jump’ while already being off the ground. You can differentiate normal groundjump from an airjump by the “cloud” below your character the second one produces.
 
@@ -612,7 +614,7 @@ I recommend giving the first option at least a fair try even if you think the ot
 
 This section is much easier if you can do maplers and dashjumps (both covered in the "More advanced stuff" part of the guide).
 
-If you can't tell mid-run whether you've gotten all the dust so far, you could try watching some SS replay and making note of what your combo count should be at certain spots where you're free enough to look at the meter in the bottom left.
+If you can't tell mid-run whether you've gotten all the dust so far, you could try watching some SS replay and making note of what your combo count should be at certain spots where you're free enough to look at the number in the bottom left.
 
 \
 <a name="combat"/>
