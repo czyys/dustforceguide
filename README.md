@@ -849,6 +849,8 @@ You can stand on the corners of spiked tiles.
 
 It’s possible to jump and even boost off of jorfs. They’re extremely precise but sometimes they just happen on accident.
 
+→ Dustforce Helpdesk video - https://www.youtube.com/watch?v=6Obt8GZebfs (also describes Spikestands and Deadlegs)
+
 - - - -
 
 <br /> 
