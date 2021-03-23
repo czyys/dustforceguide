@@ -74,9 +74,9 @@
 
 ## Introduction ##
 
-This guide is made for players only beginning their journey with Dustforce DX as well as players already with the Steam achievement. It doesn't contain any level specifc help, as it would make it grow to enormous sizes, and instead focuses on explaining general mechanics and techniques. Players thinking about, or maybe even set on climbing stock maps’ leaderboards in the long run should find it especially helpful. 
+This guide is made for players only beginning their journey with Dustforce DX as well as players already with the Steam achievement. It doesn't contain any level specifc help (with one exception), and instead focuses on explaining general mechanics and techniques. Players thinking about, or maybe even set on climbing stock maps’ leaderboards in the long run should find it especially helpful.
 
-It provides information I wish I had an easy access to when I was learning the game myself, so it’s just my own perspective and input on improving your skills. I’m a mostly inactive Dustforce player with a little over 2000 hours of playtime, most of which was spent on playing custom maps, the rest on playing stock maps and making my own customs. I’ve had ideas popping into my head for a guide like this for a long time, in fact my very first custom map was an attempt at a simple tutorial level, which is now hidden on Atlas as it became obsolete with the release of this guide.
+It provides information I wish I had an easy access to when I was learning the game myself, so it’s mainly my own perspective and input on improving your skills.
 
 \
 <a name="before-you-begin"/>
@@ -302,7 +302,7 @@ Once you downdash any additional downdashes don't give any extra speed, there's 
 
 There are only two kinds of ground jumps - low jump (also referred to as short hop) and high jump. If you hold the ‘jump’ key for the entire duration of jump squat animation (which in a usual scenario lasts 8 frames) you’re going to do a high jump. Holding 'jump' any shorter will result in a low jump.
 
-Air jump starts the moment you press 'jump', there's no squat animation.
+Air jump starts the moment you press 'jump', there's no startup animation.
 
 Holding 'jump' key after the jump starts (in case of ground jumps - after you leave the ground) doesn't affect its height in any way.
 
@@ -576,7 +576,7 @@ It’s used really only in top runs where every frame matters and jump squat was
 
 ### Spikejump ###
 
-Probably the most popular tech from those which make use of questionable way the game’s logic works in certain situations. It allows you to immediately jump off of slopes (so only ground angled at 45<sup>o</sup>) even if they have spikes. And it’s fairly easy to perform. 
+Probably the most popular tech from those which make use of questionable ways the game’s logic works in certain situations. It allows you to immediately jump off of slopes (so only ground angled at 45<sup>o</sup>) even if they have spikes. And it’s fairly easy to perform. 
 
 When you’re in the air and don’t have any aircharges left, land on a slope while holding ‘down’ and ‘jump’. If you used your aircharge on an airjump make sure to also release the ‘jump’ key and hold it again. Spikejumping works only if you’re not rising.
 
@@ -602,7 +602,7 @@ It concerns some of the sloped and slanted ceilings where developers put dust ri
 
 \
 For sloped ceilings the easiest solution is to simply not dash after landing a good enough slope boost. In case of the one slanted ceiling though there are 2 ways of dealing with it:
-* Landing and dashing near the top of the one-tile slope which makes the dash end in time to still get the dust
+* Landing and dashing near the top of the one-tile slope which makes the dash end in time to still get the dust. It's not easy as it requires a downdash quickly followed by the dash on the slope.
 
 ![32.webp](Resources/32.webp)
 
@@ -1030,7 +1030,7 @@ While active, "Replay Ghosts" invalidate any runs you finish. You can tell if th
 
 ## Other resources ##
 
-* https://www.youtube.com/channel/UC4H4b4BwJJYmUo_iZwF3WCQ - Dustforce Helpdesk channel has one more video not mentioned here and they may upload something in the future.
+* https://www.youtube.com/channel/UC4H4b4BwJJYmUo_iZwF3WCQ - Dustforce Helpdesk channel
 * https://www.dustforce.info/ - A Dustforce wiki. It’s still a work-in-progress but it already offers tons of information.
 * https://imgur.com/a/jtzG0 - Dustforce Attack Hitbox Sizes and Positions. Although don’t trust the final image as it shows some of the hitboxes incorrectly.
 * https://imgur.com/a/mF3HC - Names community has given to each enemy.
@@ -1044,6 +1044,6 @@ While active, "Replay Ghosts" invalidate any runs you finish. You can tell if th
 
 I hope that what I've written here proves to be useful. Have fun dusting and see you on the leaderboards!
 
-Thank you to Zaandaa, gonx, indapop, Alexspeedy and Skyhawk for suggesting various improvements to the guide.
+Thank you to Zaandaa, gonx, indapop, Alexspeedy, Skyhawk and HolyKau for suggesting various improvements to the guide.
 
 And finally, some clips in the guide feature custom maps or just fog triggers made by Linley, Leap, C, Giamma, Dustcreep and Alexspeedy.
